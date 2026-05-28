@@ -1,0 +1,15 @@
+name = "leoeon-katana"
+compatibility_date = "2024-01-01"
+pages_build_output_dir = "out"
+
+[vars]
+ADMIN_SECRET = "wolfkatana-admin-2024"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "leoeon-katana-db"
+database_id = "e43f032f-5e01-4738-adf8-eea965abb769"
+
+[[r2_buckets]]
+binding = "IMAGES"
+bucket_name = "leoeon-images"

@@ -1,0 +1,797 @@
+[
+  {
+    "id": 9,
+    "name": "Soul Wolf Samurai Sword",
+    "category": "ANIME REPLICA",
+    "price": 115,
+    "originalPrice": 135,
+    "rating": 5,
+    "reviews": 0,
+    "tag": "BESTSELLER",
+    "tagColor": "bg-crimson",
+    "image": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779891664593-mj7s78.jpg",
+    "imageAlt": "Soul Wolf Samurai Sword - High‑Performance Manganese Steel",
+    "gallery": [
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779714059770-61ciy5.jpg",
+        "type": "detail",
+        "alt": "Sword & Sheath"
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779714071305-dr1xfu.jpg",
+        "type": "detail",
+        "alt": "Blade"
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779714078083-z3susm.jpg",
+        "type": "detail",
+        "alt": "Tsuba"
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779714085843-i1m874.jpg",
+        "type": "detail",
+        "alt": "Tsuba"
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779714092217-6281ut.jpg",
+        "type": "detail",
+        "alt": "draw the sword"
+      }
+    ],
+    "slug": "soul-wolf-04230",
+    "inStock": true,
+    "description": "Overall Length: 101.7 cm\nBlade Length: 72.5 cm\nHandle Length: 26.7 cm\nBlade Width: 3.2 cm\nBlade Thickness: 0.6 cm\nWeight: Approx. 1400g (1100g without sheath)\nBlade Material: High‑Performance Manganese Steel\nSheath Material: Solid Wood with Lacquer Finish\nHandle Material: Solid Wood with Cord Wrap\nFittings: Alloy",
+    "specs": {
+      "bladeLength": "72.5cm",
+      "overallLength": "101.7cm",
+      "weight": "1.4kg",
+      "material": "High‑Performance Manganese Steel",
+      "handle": "Solid Wood"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Flowing Shadow Katana",
+    "category": "ANIME REPLICA",
+    "price": 125,
+    "originalPrice": 145,
+    "rating": 5,
+    "reviews": 5,
+    "tag": "BESTSELLER",
+    "tagColor": "bg-gold",
+    "image": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779891703601-3ihy4s.jpg",
+    "imageAlt": "Flowing Shadow Katana - High Performance Manganese Steel",
+    "gallery": [
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779889452938-8qg49c.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779889455399-x1g0gm.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779889458947-nfc84p.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779889460376-e6p8r4.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779889462262-jjfbnp.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779889466183-vf6fkz.jpg",
+        "type": "detail",
+        "alt": ""
+      }
+    ],
+    "slug": "flowing-shadow-04436",
+    "inStock": true,
+    "description": "Overall Length: 103.5 cm\nBlade Length: 73.5 cm\nHandle Length: 26.5 cm\nBlade Width: 3.2 cm\nBlade Thickness: 0.6 cm\nScabbard: Solid Wood with Lacquer Finish\nHandle: Solid Wood with Cord Wrap\nBlade: High-performance Manganese Steel (Gold Baked Finish)\nWeight: Approx. 1250 g (1050 g without scabbard)\nFittings & Tsuba (Guard): Alloy\n",
+    "specs": {
+      "bladeLength": "73.5cm",
+      "overallLength": "103.5cm",
+      "weight": "1.25kg",
+      "material": "High Performance Manganese Steel",
+      "handle": "Solid Wood with Ito Wrap"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Thunder Crack Katana",
+    "category": "ANIME REPLICA",
+    "price": 137,
+    "originalPrice": 165,
+    "rating": 5,
+    "reviews": 3,
+    "tag": "BESTSELLER",
+    "tagColor": "bg-gold",
+    "image": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779889884521-s120g4.jpg",
+    "imageAlt": "Thunder Crack Katana",
+    "gallery": [
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779889908388-upmesv.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779889913037-je8hoo.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779889917687-tt76ox.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779889921492-7bqafr.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779889924384-v94fbq.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779889928332-k91pfx.jpg",
+        "type": "detail",
+        "alt": ""
+      }
+    ],
+    "slug": "thunder-crack-04411",
+    "inStock": true,
+    "description": "Overall Length: 103.5 cm | Blade Length: 73.5 cm\nHandle Length: 26.5 cm | Blade Width: 3.2 cm | Blade Thickness: 0.75 cm\nSolid wood lacquered scabbard, solid wood handle with ito wrap.\nBlade: High-performance manganese steel with pattern etching finish.\nWeight: ~1250 g (1050 g without scabbard).\nAlloy fittings & tsuba. Polished via 13-step hand craftsmanship.\n",
+    "specs": {
+      "bladeLength": "73.5cm",
+      "overallLength": "103.5cm",
+      "weight": "1.25kg",
+      "material": "High Performance Manganese Steel",
+      "handle": "Solid Wood with Ito Wrap"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Higekiri Katana",
+    "category": "ANIME REPLICA",
+    "price": 135,
+    "originalPrice": 155,
+    "rating": 5,
+    "reviews": 6,
+    "tag": "BESTSELLER",
+    "tagColor": "bg-gold",
+    "image": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779890204818-xx8bpg.jpg",
+    "imageAlt": "Higekiri Katana",
+    "gallery": [
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779890229700-seq4cn.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779890231538-99sxtb.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779890235753-mbwus7.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779890237257-kvt1s8.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779890238620-cb6rll.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779890240547-qr71bz.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779890242193-ed2v8d.jpg",
+        "type": "detail",
+        "alt": ""
+      }
+    ],
+    "slug": "Higekiri-04394",
+    "inStock": true,
+    "description": "Overall Length: 103.5 cm | Blade Length: 73.5 cm\nHandle Length: 26.5 cm | Blade Width: 3.2 cm | Blade Thickness: 0.6 cm\nSolid wood lacquered scabbard, solid wood handle with ito wrap.\nBlade: High-performance manganese steel.\nWeight: ~1350 g (1100 g without scabbard).\nAlloy fittings & tsuba.",
+    "specs": {
+      "bladeLength": "73.5cm",
+      "overallLength": "103.5cm",
+      "weight": "1.35kg",
+      "material": "High Performance Manganese Steel",
+      "handle": "Solid Wood with Ito Wrap"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Swift Dragon Katana - Stainless Steel Scabbard Version",
+    "category": "ANIME REPLICA",
+    "price": 115,
+    "originalPrice": 135,
+    "rating": 5,
+    "reviews": 6,
+    "tag": "BESTSELLER",
+    "tagColor": "bg-gold",
+    "image": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779890534889-5l8nnp.jpg",
+    "imageAlt": "Swift Dragon Katana - Stainless Steel Scabbard Version",
+    "gallery": [
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779890562157-vfj60k.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779890563649-9g3j86.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779890565016-spqsrs.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779890566420-unsyar.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779890568022-4db9b6.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779890569512-n922tp.jpg",
+        "type": "detail",
+        "alt": ""
+      }
+    ],
+    "slug": "swift-dragon",
+    "inStock": true,
+    "description": "Overall Length: 100 cm | Blade Length: 71 cm\nHandle Length: 26 cm | Blade Width: 3.2 cm | Blade Thickness: 0.5 cm\nWeight: Approx. 1600 g (950 g without scabbard)\nBlade: High-performance Manganese Steel\nScabbard: 7Cr17MoV Steel + Solid Wood\nHandle: PC-ABS with Leather Cord Wrap\nFittings: 7Cr17MoV Steel\n",
+    "specs": {
+      "bladeLength": "71cm",
+      "overallLength": "100cm",
+      "weight": "1.6kg",
+      "material": "High-performance Manganese Steel",
+      "handle": "7Cr17MoV Steel + Solid Wood"
+    }
+  },
+  {
+    "id": 14,
+    "name": "One Thought Divine Katana - T10 Clay Tempered Blade",
+    "category": "ANIME REPLICA",
+    "price": 160,
+    "originalPrice": 200,
+    "rating": 5,
+    "reviews": 6,
+    "tag": "BESTSELLER",
+    "tagColor": "bg-gold",
+    "image": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779890862245-de4pq1.jpg",
+    "imageAlt": "One Thought Divine Katana",
+    "gallery": [
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779890886553-xxzgug.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779890890377-lmvbij.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779890893000-4dfp8y.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779890895530-7khh5u.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779890898435-dk6u24.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779890900941-t98za8.jpg",
+        "type": "detail",
+        "alt": ""
+      }
+    ],
+    "slug": "one-thought-divine-04274",
+    "inStock": true,
+    "description": "Overall Length: 103 cm | Blade Length: 73.5 cm\nHandle Length: 27 cm (including tsuba) | Blade Width: 3.2 cm | Blade Thickness: 0.7 cm\nWeight: Approx. 1300 g (1100 g without scabbard)\nBlade: T10 Steel with clay tempering\nScabbard: Solid wood with lacquer finish\nHandle: Solid wood with ito wrap\nFittings: Brass",
+    "specs": {
+      "bladeLength": "73.5cm",
+      "overallLength": "103cm",
+      "weight": "1.3kg",
+      "material": "T10 Steel with clay tempering",
+      "handle": "Solid wood with ito wrap"
+    }
+  },
+  {
+    "id": 15,
+    "name": "canglan-katana-manganese-steel",
+    "category": "ANIME REPLICA",
+    "price": 135,
+    "originalPrice": 160,
+    "rating": 5,
+    "reviews": 4,
+    "tag": "BESTSELLER",
+    "tagColor": "bg-gold",
+    "image": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779891386861-ndqata.jpg",
+    "imageAlt": "canglan-katana-manganese-steel",
+    "gallery": [
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779891409975-oa54q4.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779891412493-2kbcck.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779891414545-5tacvi.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779891416259-pqxa1b.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779891417707-clbfsk.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779891420151-bo5sy6.jpg",
+        "type": "detail",
+        "alt": ""
+      }
+    ],
+    "slug": "canglan-04380",
+    "inStock": true,
+    "description": "Overall Length: 103.5 cm\nBlade Length: 73.5 cm\nHandle Length: 26.5 cm\nBlade Width: 3.2 cm\nBlade Thickness: 0.6 cm\n\nScabbard Material: Solid Wood with Lacquer Finish\nHandle Material: Solid Wood with PU Cord Wrap\nBlade Material: High-performance Manganese Steel (Bluing Finish)\n\nWeight: Approx. 1250 g (1000 g without scabbard)\nFittings: Alloy\nTsuba (Guard): Alloy",
+    "specs": {
+      "bladeLength": "73.5cm",
+      "overallLength": "103.5cm",
+      "weight": "1.25kg",
+      "material": "High-performance Manganese Steel",
+      "handle": "Solid Wood with PU Cord Wrap"
+    }
+  },
+  {
+    "id": 16,
+    "name": "Snow Flower Katana",
+    "category": "ANIME REPLICA",
+    "price": 135,
+    "originalPrice": 155,
+    "rating": 5,
+    "reviews": 5,
+    "tag": "BESTSELLER",
+    "tagColor": "bg-gold",
+    "image": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779891898299-6azvhp.jpg",
+    "imageAlt": "Snow Flower Katana",
+    "gallery": [
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779891913108-og8i8c.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779891919258-woea8s.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779891921862-tsqwvr.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779891923824-e99jjv.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779891925990-fpw2lg.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779891930813-3zhzin.jpg",
+        "type": "detail",
+        "alt": ""
+      }
+    ],
+    "slug": "snow-flower-04117",
+    "inStock": true,
+    "description": "Overall Length: 103.5 cm\nBlade Length: 73.5 cm\nHandle Length: 26.5 cm\nBlade Width: 3.2 cm\nBlade Thickness: 0.6 cm\n\nScabbard Material: Solid Wood with Lacquer Finish\nHandle Material: Solid Wood with PU Cord Wrap\nBlade Material: High-performance Manganese Steel (Purple Bluing Finish)\n\nWeight: Approx. 1250 g (1000 g without scabbard)\nFittings: Alloy\nTsuba (Guard): Alloy",
+    "specs": {
+      "bladeLength": "73.5cm",
+      "overallLength": "103.5cm",
+      "weight": "1.25kg",
+      "material": "High-performance Manganese Steel",
+      "handle": "Solid Wood with PU Cord Wrap"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Demon Sealing Katana",
+    "category": "ANIME REPLICA",
+    "price": 135,
+    "originalPrice": 160,
+    "rating": 5,
+    "reviews": 3,
+    "tag": "BESTSELLER",
+    "tagColor": "bg-gold",
+    "image": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779892204638-7x106t.jpg",
+    "imageAlt": "Demon Sealing Katana",
+    "gallery": [
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779892237741-2uuvf6.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779892239573-fefurw.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779892241118-veahgy.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779892242941-x1bfk6.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779892245345-7biiza.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779892247760-g9shq7.jpg",
+        "type": "detail",
+        "alt": ""
+      }
+    ],
+    "slug": "demon-sealing-04100",
+    "inStock": true,
+    "description": "Overall Length: 103 cm\nBlade Length: 73 cm\nHandle Length: 26.5 cm\nBlade Width: 3.2 cm\nBlade Thickness: 0.6 cm\n\nScabbard Material: Solid Wood with Lacquer Finish\nHandle Material: Solid Wood with Cord Wrap\nBlade Material: High-performance Manganese Steel\n\nWeight: Approx. 1300 g (1100 g without scabbard)\nFittings: Alloy\nTsuba (Guard): Painted Manganese Steel",
+    "specs": {
+      "bladeLength": "73cm",
+      "overallLength": "103cm",
+      "weight": "1.3kg",
+      "material": "High-performance Manganese Steel",
+      "handle": "Solid Wood with Cord Wrap"
+    }
+  },
+  {
+    "id": 18,
+    "name": "Cloud Mist Katana - High Carbon Steel",
+    "category": "ANIME REPLICA",
+    "price": 140,
+    "originalPrice": 170,
+    "rating": 5,
+    "reviews": 60,
+    "tag": "BESTSELLER",
+    "tagColor": "bg-gold",
+    "image": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779892694437-xdanbt.jpg",
+    "imageAlt": "Cloud Mist Katana - High Carbon Steel",
+    "gallery": [
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779892540145-xo6nsp.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779892545551-23p1oh.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779892550430-xv1zzk.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779892554781-b5utot.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779892558748-nr7jcj.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779892564798-1cjvwo.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779892569605-vxyjfx.jpg",
+        "type": "detail",
+        "alt": ""
+      }
+    ],
+    "slug": "cloud-mist-04010",
+    "inStock": true,
+    "description": "Overall Length: 100.5 cm\nBlade Length: 72.5 cm\nHandle Length: 25.3 cm\nBlade Width: 3.2 cm\nBlade Thickness: 0.7 cm\n\nWeight: Approx. 1750 g (1050 g without scabbard)\n\nBlade Material: High Carbon Steel\nHandle Material: High-performance Stainless Steel",
+    "specs": {
+      "bladeLength": "72.5cm",
+      "overallLength": "100.5cm",
+      "weight": "1.75kg",
+      "material": "High Carbon Steel",
+      "handle": "High-performance Stainless Steel"
+    }
+  },
+  {
+    "id": 19,
+    "name": "Den Yoshioka Katana",
+    "category": "ANIME REPLICA",
+    "price": 135,
+    "originalPrice": 160,
+    "rating": 5,
+    "reviews": 50,
+    "tag": "BESTSELLER",
+    "tagColor": "bg-gold",
+    "image": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779895098977-6pyopy.jpg",
+    "imageAlt": "Den Yoshioka Katana",
+    "gallery": [
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779895128460-xt5v09.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779895130894-1l2fa8.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779895134532-lzyu55.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779895136986-mwwgrw.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779895139923-hlr2vr.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779895141905-ec2xnv.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779895238368-zavbx2.jpg",
+        "type": "detail",
+        "alt": ""
+      }
+    ],
+    "slug": "den-yoshioka-05330",
+    "inStock": true,
+    "description": "Overall Length: 103.5 cm\nBlade Length: 73 cm\nHandle Length: 26 cm\nBlade Width: 3.2 cm\nBlade Thickness: 0.6 cm\n\nWeight: Approx. 1100 g (900 g without scabbard)\n\nBlade Material: High-performance Manganese Steel\nScabbard Material: Solid Wood\nHandle Material: Solid Wood with Cord Wrap\nFittings: Alloy",
+    "specs": {
+      "bladeLength": "73cm",
+      "overallLength": "103.5cm",
+      "weight": "1.1kg",
+      "material": "High-performance Manganese Steel",
+      "handle": "Solid Wood with Cord Wrap"
+    }
+  },
+  {
+    "id": 20,
+    "name": "Bamboo & Wood Iaido Katana",
+    "category": "ANIME REPLICA",
+    "price": 75,
+    "originalPrice": 100,
+    "rating": 5,
+    "reviews": 65,
+    "tag": "BESTSELLER",
+    "tagColor": "bg-gold",
+    "image": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779895556231-s5yhs8.jpg",
+    "imageAlt": "Bamboo & Wood Iaido Katana",
+    "gallery": [
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779895578052-mwjgmh.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779895582458-n1cjuh.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779895625770-22vfag.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779895629504-ck6lsl.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779895632582-k6mfru.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779895664094-nnm9tc.jpg",
+        "type": "detail",
+        "alt": ""
+      }
+    ],
+    "slug": "bamboo-&-wood-iaido-05182",
+    "inStock": true,
+    "description": "Overall Length: 105 cm\nBlade Length: 70.5 cm\nHandle Length: 27 cm\nBlade Width: 3.0 cm\nBlade Thickness: 1.1 cm\n\nWeight: Approx. 500 g (300 g without scabbard)\n\nBlade Material: Bamboo & Wood\nScabbard Material: Bamboo & Wood\nHandle Material: Bamboo & Wood",
+    "specs": {
+      "bladeLength": "70.5cm",
+      "overallLength": "105cm",
+      "weight": "0.5kg",
+      "material": "Bamboo & Wood",
+      "handle": "Bamboo & Wood"
+    }
+  },
+  {
+    "id": 21,
+    "name": "Golden Dragon Katana",
+    "category": "ANIME REPLICA",
+    "price": 140,
+    "originalPrice": 175,
+    "rating": 5,
+    "reviews": 66,
+    "tag": "BESTSELLER",
+    "tagColor": "bg-gold",
+    "image": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779896069115-jmo6kz.jpg",
+    "imageAlt": "Golden Dragon Katana",
+    "gallery": [
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779896094055-qw77rn.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779896098732-pdkpp6.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779896103606-ei8qwu.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779896108864-s16akv.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779896111326-4n099p.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779896114193-k34bbc.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779896117494-kus3er.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779896119846-tvec7b.jpg",
+        "type": "detail",
+        "alt": ""
+      }
+    ],
+    "slug": "golden-dragon-05085",
+    "inStock": true,
+    "description": "Overall Length: 103 cm\nBlade Length: 74 cm\nHandle Length: 26.5 cm\nBlade Width: 3.2 cm\nBlade Thickness: 0.7 cm\n\nWeight: Approx. 1250 g (1050 g without scabbard)\n\nBlade Material: T10 Steel with Clay Tempered Edge\nScabbard Material: Solid Wood with Lacquer Finish\nHandle Material: Solid Wood with Cord Wrap\nFittings: Alloy",
+    "specs": {
+      "bladeLength": "74cm",
+      "overallLength": "103cm",
+      "weight": "1.25kg",
+      "material": "T10 Steel with Clay Tempered Edge",
+      "handle": "Solid Wood with Cord Wrap"
+    }
+  },
+  {
+    "id": 22,
+    "name": "Kill Bill Katana",
+    "category": "ANIME REPLICA",
+    "price": 200,
+    "originalPrice": 285,
+    "rating": 5,
+    "reviews": 29,
+    "tag": "BESTSELLER",
+    "tagColor": "bg-gold",
+    "image": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779896959178-snmnwe.jpg",
+    "imageAlt": "Kill Bill Katana",
+    "gallery": [
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779896936299-2a3ar4.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779896706495-arumue.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779896878564-bpf1sa.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779896880425-74yzkc.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779896898030-tjnw4k.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779896899813-te7g85.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779896937298-jomrrn.jpg",
+        "type": "detail",
+        "alt": ""
+      }
+    ],
+    "slug": "kill-bill-02833",
+    "inStock": true,
+    "description": "Overall Length: 103 cm\nBlade Length: 70 cm\nHandle Length: 27 cm\nBlade Width: 3.2 cm\nBlade Thickness: 0.7 cm\n\nBlade Material: T10 Steel with Clay Tempered Edge\nScabbard Material: Mahogany\nHandle Material: One-piece Steel with Anti-slip Cord Wrap\n\nWeight: Approx. 1735 g (1040 g without scabbard)\nFittings: Brass",
+    "specs": {
+      "bladeLength": "70cm",
+      "overallLength": "103cm",
+      "weight": "1.74kg",
+      "material": "T10 Steel with Clay Tempered Edge",
+      "handle": "One-piece Steel with Anti-slip Cord Wrap"
+    }
+  }
+]
