@@ -87,7 +87,7 @@ export async function fetchProductsFromNotion(): Promise<Product[]> {
       return {
         id: page.number ?? parseInt(page.id.replace(/\D/g, "").slice(0, 6)),
         name: getTitle(p.Name),
-        category: getSelect(p.Category) || "AUTHENTIC",
+        category: getSelect(p.Category) || "CHINESE BLADE",
         price: getNumber(p.Price) ?? 0,
         originalPrice: getNumber(p["Original Price"]),
         rating: getNumber(p.Rating) ?? 5.0,

@@ -48,10 +48,10 @@
     "addToCart": "Aggiungi al carrello",
     "soldOut": "ESAURITO",
     "filterAll": "TUTTE",
-    "filterAnime": "ANIME",
-    "filterMovie": "FILM",
-    "filterAuthentic": "AUTENTICHE",
-    "filterAccessories": "ACCESSORI"
+    "filterKatana": "KATANA",
+    "filterChineseSword": "CHINESE SWORD",
+    "filterChineseBlade": "CHINESE BLADE",
+    "filterCraftShortBlades": "CRAFT SHORT BLADES"
   },
   "features": {
     "subtitle": "PERCHÉ SCEGLIERCI",

@@ -45,7 +45,7 @@ export default async function ReturnsPage({ params }: { params: Promise<{ locale
             </section>
             <section>
               <h2 className="text-gold text-lg font-medium mb-3">Lifetime Warranty</h2>
-              <p>All AUTHENTIC category swords come with a lifetime structural warranty against manufacturing defects. This does not cover damage from misuse, accidents, or normal wear and tear.</p>
+              <p>All CHINESE BLADE category swords come with a lifetime structural warranty against manufacturing defects. This does not cover damage from misuse, accidents, or normal wear and tear.</p>
             </section>
           </div>
         </div>

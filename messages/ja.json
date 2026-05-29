@@ -48,10 +48,10 @@
     "addToCart": "カートに追加",
     "soldOut": "完売",
     "filterAll": "すべて",
-    "filterAnime": "アニメ",
-    "filterMovie": "映画",
-    "filterAuthentic": "本物",
-    "filterAccessories": "アクセサリー"
+    "filterKatana": "KATANA",
+    "filterChineseSword": "CHINESE SWORD",
+    "filterChineseBlade": "CHINESE BLADE",
+    "filterCraftShortBlades": "CRAFT SHORT BLADES"
   },
   "features": {
     "subtitle": "なぜ私たちを選ぶのか",

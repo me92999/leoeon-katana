@@ -308,7 +308,7 @@
 
       if (product) {
         form.name.value = product.name || '';
-        form.category.value = product.category || 'ANIME REPLICA';
+        form.category.value = product.category || 'KATANA';
         form.price.value = product.price || '';
         form.original_price.value = product.original_price || '';
         form.rating.value = product.rating || 5;
@@ -574,7 +574,7 @@
             <form id="productForm" onsubmit="saveProduct(event)">
               <div class="form-group"><label>商品名称 *</label><input name="name" required placeholder="例如: Demon Slayer Tanjiro Katana"></div>
               <div class="grid-2">
-                <div class="form-group"><label>分类 *</label><select name="category" required><option value="ANIME REPLICA">ANIME REPLICA</option><option value="MOVIE REPLICA">MOVIE REPLICA</option><option value="AUTHENTIC">AUTHENTIC</option><option value="ACCESSORY">ACCESSORY</option></select></div>
+                <div class="form-group"><label>分类 *</label><select name="category" required><option value="KATANA">KATANA</option><option value="CHINESE SWORD">CHINESE SWORD</option><option value="CHINESE BLADE">CHINESE BLADE</option><option value="CRAFT SHORT BLADES">CRAFT SHORT BLADES</option></select></div>
                 <div class="form-group"><label>URL 标识 (slug) *</label><input name="slug" required placeholder="例如: demon-slayer-tanjiro-katana"></div>
               </div>
               <div class="grid-2">

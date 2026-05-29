@@ -48,10 +48,10 @@
     "addToCart": "加入购物车",
     "soldOut": "已售罄",
     "filterAll": "全部",
-    "filterAnime": "动漫",
-    "filterMovie": "电影",
-    "filterAuthentic": "正品",
-    "filterAccessories": "配件"
+    "filterKatana": "KATANA",
+    "filterChineseSword": "CHINESE SWORD",
+    "filterChineseBlade": "CHINESE BLADE",
+    "filterCraftShortBlades": "CRAFT SHORT BLADES"
   },
   "features": {
     "subtitle": "为什么选择我们",

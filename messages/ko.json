@@ -48,10 +48,10 @@
     "addToCart": "장바구니에 추가",
     "soldOut": "품절",
     "filterAll": "전체",
-    "filterAnime": "애니메이션",
-    "filterMovie": "영화",
-    "filterAuthentic": "정품",
-    "filterAccessories": "액세서리"
+    "filterKatana": "KATANA",
+    "filterChineseSword": "CHINESE SWORD",
+    "filterChineseBlade": "CHINESE BLADE",
+    "filterCraftShortBlades": "CRAFT SHORT BLADES"
   },
   "features": {
     "subtitle": "왜 우리를 선택하는가",

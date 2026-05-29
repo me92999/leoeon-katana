@@ -48,10 +48,10 @@
     "addToCart": "В корзину",
     "soldOut": "РАСПРОДАНО",
     "filterAll": "ВСЕ",
-    "filterAnime": "АНИМЕ",
-    "filterMovie": "ФИЛЬМЫ",
-    "filterAuthentic": "АУТЕНТИК",
-    "filterAccessories": "АКСЕССУАРЫ"
+    "filterKatana": "KATANA",
+    "filterChineseSword": "CHINESE SWORD",
+    "filterChineseBlade": "CHINESE BLADE",
+    "filterCraftShortBlades": "CRAFT SHORT BLADES"
   },
   "features": {
     "subtitle": "ПОЧЕМУ МЫ",

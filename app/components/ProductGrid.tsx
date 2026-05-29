@@ -10,10 +10,10 @@ import { useCart } from "./CartContext";
 
 const categoryMap: Record<string, string> = {
   ALL: "ALL",
-  "ANIME REPLICA": "ANIME",
-  "MOVIE REPLICA": "MOVIE",
-  AUTHENTIC: "AUTHENTIC",
-  ACCESSORY: "ACCESSORIES",
+  KATANA: "KATANA",
+  "CHINESE SWORD": "CHINESE SWORD",
+  "CHINESE BLADE": "CHINESE BLADE",
+  "CRAFT SHORT BLADES": "CRAFT SHORT BLADES",
 };
 
 function transformApiProduct(row: any): Product {
@@ -72,10 +72,10 @@ export default function ProductGrid({
 
   const filters = [
     { key: "ALL", label: t("products.filterAll") },
-    { key: "ANIME REPLICA", label: t("products.filterAnime") },
-    { key: "MOVIE REPLICA", label: t("products.filterMovie") },
-    { key: "AUTHENTIC", label: t("products.filterAuthentic") },
-    { key: "ACCESSORY", label: t("products.filterAccessories") },
+    { key: "KATANA", label: t("products.filterKatana") },
+    { key: "CHINESE SWORD", label: t("products.filterChineseSword") },
+    { key: "CHINESE BLADE", label: t("products.filterChineseBlade") },
+    { key: "CRAFT SHORT BLADES", label: t("products.filterCraftShortBlades") },
   ];
 
   const filteredProducts = useMemo(() => {

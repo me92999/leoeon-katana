@@ -5,7 +5,7 @@
  * 字段说明：
  * - id: 商品唯一编号（数字，不能重复）
  * - name: 商品名称
- * - category: 商品分类（ANIME REPLICA / MOVIE REPLICA / AUTHENTIC / ACCESSORY）
+ * - category: 商品分类（KATANA / CHINESE SWORD / CHINESE BLADE / CRAFT SHORT BLADES）
  * - price: 当前售价（数字，不含 $ 符号）
  * - originalPrice: 原价（不打折填 null）
  * - rating: 评分（1.0 ~ 5.0）
@@ -56,7 +56,7 @@ export const products: Product[] = [
   {
     id: 1,
     name: "Demon Slayer Tanjiro Katana",
-    category: "ANIME REPLICA",
+    category: "KATANA",
     price: 329,
     originalPrice: 399,
     rating: 4.9,
@@ -79,7 +79,7 @@ export const products: Product[] = [
   {
     id: 2,
     name: "Kill Bill Hattori Hanzo",
-    category: "MOVIE REPLICA",
+    category: "CHINESE SWORD",
     price: 459,
     originalPrice: 529,
     rating: 4.8,
@@ -102,7 +102,7 @@ export const products: Product[] = [
   {
     id: 3,
     name: "Traditional Handmade Katana",
-    category: "AUTHENTIC",
+    category: "CHINESE BLADE",
     price: 599,
     originalPrice: null,
     rating: 5.0,
@@ -125,7 +125,7 @@ export const products: Product[] = [
   {
     id: 4,
     name: "One Piece Roronoa Zoro Wado",
-    category: "ANIME REPLICA",
+    category: "KATANA",
     price: 289,
     originalPrice: 349,
     rating: 4.7,
@@ -148,7 +148,7 @@ export const products: Product[] = [
   {
     id: 5,
     name: "Last Samurai Battle Ready",
-    category: "MOVIE REPLICA",
+    category: "CHINESE SWORD",
     price: 749,
     originalPrice: 899,
     rating: 4.9,
@@ -171,7 +171,7 @@ export const products: Product[] = [
   {
     id: 6,
     name: "Mini Katana Letter Opener",
-    category: "ACCESSORY",
+    category: "CRAFT SHORT BLADES",
     price: 89,
     originalPrice: null,
     rating: 4.6,
@@ -194,7 +194,7 @@ export const products: Product[] = [
   {
     id: 7,
     name: "Bleach Ichigo Zangetsu",
-    category: "ANIME REPLICA",
+    category: "KATANA",
     price: 379,
     originalPrice: 429,
     rating: 4.8,
@@ -217,7 +217,7 @@ export const products: Product[] = [
   {
     id: 8,
     name: "Hand-Forged T10 Steel Katana",
-    category: "AUTHENTIC",
+    category: "CHINESE BLADE",
     price: 899,
     originalPrice: 1099,
     rating: 5.0,
