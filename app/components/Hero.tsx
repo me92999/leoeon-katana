@@ -152,11 +152,7 @@ export default function Hero({ locale }: { locale: string }) {
           <div className="hidden lg:flex items-center justify-center relative">
             <div className="absolute w-[400px] h-[400px] rounded-full bg-gold/5 blur-3xl" />
             <div className="relative w-full aspect-square max-w-md flex items-center justify-center">
-              <div className="w-2 h-64 bg-gradient-to-b from-gold-light via-gold to-gold-dark rounded-full shadow-[0_0_60px_rgba(201,169,110,0.3)] transform rotate-12" />
-              <div className="absolute w-24 h-4 bg-gradient-to-r from-dark-elevated via-dark-surface to-dark-elevated rounded-full shadow-lg transform rotate-12 translate-y-32" />
-              <div className="absolute inset-0 flex items-center justify-center">
-                <div className="w-1 h-48 bg-gold/40 blur-sm transform rotate-12" />
-              </div>
+              <div className="absolute w-[400px] h-[400px] rounded-full bg-gold/5 blur-3xl" />
             </div>
           </div>
         </div>
