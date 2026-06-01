@@ -16,7 +16,8 @@ export default async function HomePage({
   params: Promise<{ locale: string }>;
 }) {
   const { locale } = await params;
-  const products = await getAllProducts();
+  const allProducts = await getAllProducts();
+  const products = allProducts.slice(0, 12);
 
   const orgSchema = {
     "@context": "https://schema.org",
