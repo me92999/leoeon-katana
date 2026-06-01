@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "node scripts/sync-db.js && node scripts/generate-sitemap.js && next build && node scripts/post-build.js",
+    "build": "rm -rf .next && node scripts/sync-db.js && node scripts/generate-sitemap.js && next build && node scripts/post-build.js",
     "deploy": "wrangler pages deploy out --project-name=leoeon-katana --branch=main --commit-dirty=true --commit-message=update",
     "start": "next start",
     "lint": "next lint"
