@@ -793,5 +793,3375 @@
       "material": "T10 Steel with Clay Tempered Edge",
       "handle": "One-piece Steel with Anti-slip Cord Wrap"
     }
+  },
+  {
+    "id": 23,
+    "name": "Crimson Cloud Katana",
+    "category": "KATANA",
+    "price": 135,
+    "originalPrice": 165,
+    "rating": 5,
+    "reviews": 31,
+    "tag": "BESTSELLER",
+    "tagColor": "bg-gold",
+    "image": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779975476335-l74f5p.jpg",
+    "imageAlt": "Crimson Cloud Katana",
+    "gallery": [
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779975500547-bnqvk5.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779975603017-lxgdcc.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779975622204-bhgpex.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779975656257-7wmjrk.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779975691884-3lb9ah.jpg",
+        "type": "detail",
+        "alt": ""
+      }
+    ],
+    "slug": "crimson-cloud-05187",
+    "inStock": true,
+    "description": "Overall Length: 103cm\nBlade Length: 73cm\nHandle Length: 26.5cm\nBlade Width: 3.15cm\nBlade Thickness: 0.6cm\nTotal Weight: Approx. 1250g\nBlade Material: High-performance Manganese Steel\nScabbard Material: Solid Wood with Lacquer Finish\nWeight Without Scabbard: 1000g\nHandle Material: Solid Wood with Cord Wrap\nFittings: Alloy",
+    "specs": {
+      "bladeLength": "73cm",
+      "overallLength": "103cm",
+      "weight": "1.25kg",
+      "material": "High-performance Manganese Steel",
+      "handle": "Solid Wood with Cord Wrap"
+    }
+  },
+  {
+    "id": 24,
+    "name": "Black Serpent Katana",
+    "category": "KATANA",
+    "price": 135,
+    "originalPrice": 160,
+    "rating": 5,
+    "reviews": 79,
+    "tag": "BESTSELLER",
+    "tagColor": "bg-gold",
+    "image": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779975939925-9eq2gd.jpg",
+    "imageAlt": "Black Serpent Katana",
+    "gallery": [
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779975950524-3d6x7j.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779975958179-818tip.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779975963551-qusyx4.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779975972551-8jwitb.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779975978023-ewh6nc.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779975982700-ffu2kx.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779975989913-wn7u2x.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779976001121-n3i0aw.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779976008237-bjru8i.jpg",
+        "type": "detail",
+        "alt": ""
+      }
+    ],
+    "slug": "black-serpent-05065",
+    "inStock": true,
+    "description": "Overall Length: 103cm\nBlade Length: 73cm\nHandle Length: 26.5cm\nBlade Width: 3.15cm\nBlade Thickness: 0.75cm\nTotal Weight: Approx. 1300g\nBlade Material: High-performance Manganese Steel\nScabbard Material: Golden Snake Pattern Lacquered Wood\nWeight Without Scabbard: 1050g\nHandle Material: Solid Wood with Cord Wrap\nFittings: Alloy",
+    "specs": {
+      "bladeLength": "73cm",
+      "overallLength": "103cm",
+      "weight": "1.3kg",
+      "material": "High-performance Manganese Steel",
+      "handle": "Solid Wood with Cord Wrap"
+    }
+  },
+  {
+    "id": 25,
+    "name": "Vitality Katana",
+    "category": "KATANA",
+    "price": 135,
+    "originalPrice": 165,
+    "rating": 5,
+    "reviews": 52,
+    "tag": "BESTSELLER",
+    "tagColor": "bg-gold",
+    "image": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779976158857-hfnjco.jpg",
+    "imageAlt": "Vitality Katana",
+    "gallery": [
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779976180162-55zsqq.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779976182681-plrqxc.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779976186728-blbo60.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779976189493-1kyny8.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779976192954-bnt2ko.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779976195559-nh845y.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779976196982-x6iqze.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779976197885-riqshs.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779976198929-sm2tax.jpg",
+        "type": "detail",
+        "alt": ""
+      }
+    ],
+    "slug": "vitality-05062",
+    "inStock": true,
+    "description": "Overall Length: 104.5cm\nBlade Length: 73cm\nHandle Length: 26.5cm\nBlade Width: 3.15cm\nBlade Thickness: 0.75cm\nTotal Weight: Approx. 1250g\nBlade Material: High-performance Manganese Steel\nScabbard Material: Solid Wood with Lacquer Finish\nWeight Without Scabbard: 1050g\nHandle Material: Solid Wood with Cord Wrap\nFittings: Alloy",
+    "specs": {
+      "bladeLength": "73cm",
+      "overallLength": "104.5cm",
+      "weight": "1.25kg",
+      "material": "High-performance Manganese Steel",
+      "handle": "Solid Wood with Cord Wrap"
+    }
+  },
+  {
+    "id": 26,
+    "name": "Blood Drinker Katana",
+    "category": "KATANA",
+    "price": 145,
+    "originalPrice": 170,
+    "rating": 5,
+    "reviews": 11,
+    "tag": "BESTSELLER",
+    "tagColor": "bg-gold",
+    "image": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779976442594-akukwr.jpg",
+    "imageAlt": "Blood Drinker Katana",
+    "gallery": [
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779976465884-ypb7e6.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779976472246-hhny9f.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779976476443-fjwxbj.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779976477815-mgtn6g.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779976482884-u657d8.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779976487219-caxwaa.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779976490411-rw9i7v.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779976497364-mls7sm.jpg",
+        "type": "detail",
+        "alt": ""
+      }
+    ],
+    "slug": "blood-drinker-05013",
+    "inStock": true,
+    "description": "Overall Length: 103cm\nBlade Length: 73cm\nHandle Length: 26.5cm\nBlade Width: 3.15cm\nBlade Thickness: 0.75cm\nTotal Weight: Approx. 1300g\nBlade Material: Pattern Steel\nScabbard Material: Solid Wood with Lacquer Finish\nWeight Without Scabbard: 1050g\nHandle Material: Solid Wood with Cord Wrap\nFittings: Alloy\n",
+    "specs": {
+      "bladeLength": "73cm",
+      "overallLength": "103cm",
+      "weight": "1.3kg",
+      "material": "Pattern Steel",
+      "handle": "Solid Wood with Cord Wrap"
+    }
+  },
+  {
+    "id": 27,
+    "name": "Purple Dragon Katana",
+    "category": "KATANA",
+    "price": 130,
+    "originalPrice": 195,
+    "rating": 5,
+    "reviews": 55,
+    "tag": "BESTSELLER",
+    "tagColor": "bg-gold",
+    "image": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779976750519-dfi6kt.jpg",
+    "imageAlt": null,
+    "gallery": [
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779976769016-3ee4vd.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779976772911-95057x.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779976776991-bxs6ow.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779976779864-g9kn4h.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779976782901-viwekc.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779976785455-tk8oav.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779976790060-1h6sp7.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779976792532-dz1roc.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779976795597-lk00jv.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779976798580-yn8b5s.jpg",
+        "type": "detail",
+        "alt": ""
+      }
+    ],
+    "slug": "purple-dragon-05012",
+    "inStock": true,
+    "description": "Overall Length: 103cm\nBlade Length: 73cm\nHandle Length: 26.5cm\nBlade Width: 3.15cm\nBlade Thickness: 0.6cm\nTotal Weight: Approx. 1300g\nBlade Material: High-performance Manganese Steel\nScabbard Material: Lacquered Wood with Purple Flash & Twin Dragon Motifs\nWeight Without Scabbard: 1050g\nHandle Material: Solid Wood with Cord Wrap\nFittings: Alloy",
+    "specs": {
+      "bladeLength": "73cm",
+      "overallLength": "103cm",
+      "weight": "1.3kg",
+      "material": "High-performance Manganese Steel",
+      "handle": "Solid Wood with Cord Wrap"
+    }
+  },
+  {
+    "id": 28,
+    "name": "Breaking Army Katana",
+    "category": "KATANA",
+    "price": 150,
+    "originalPrice": 210,
+    "rating": 5,
+    "reviews": 15,
+    "tag": "BESTSELLER",
+    "tagColor": "bg-gold",
+    "image": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779977102801-le4qj4.jpg",
+    "imageAlt": "Breaking Army Katana",
+    "gallery": [
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779977117585-wgdb8e.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779977118702-7wh5ib.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779977119809-6zy8wq.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779977120925-n29qsl.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779977122040-yghfqy.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779977122991-xssj8s.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779977124181-3qudmo.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779977125204-ab8oor.jpg",
+        "type": "detail",
+        "alt": ""
+      }
+    ],
+    "slug": "breaking-army-04300",
+    "inStock": true,
+    "description": "Overall Length: 103cm\nBlade Length: 73cm\nHandle Length (including guard): 28cm\nBlade Width: 3.15cm\nBlade Thickness: 0.7cm\nTotal Weight: Approx. 1800g (1050g without scabbard)\nBlade Material: High-performance Manganese Steel\nScabbard Material: Solid Wood with Brass Trim\nHandle Material: Solid Wood with Cord Wrap\nFittings: Alloy\n",
+    "specs": {
+      "bladeLength": "73cm",
+      "overallLength": "103cm",
+      "weight": "1.8kg",
+      "material": "High-performance Manganese Steel",
+      "handle": "Solid Wood with Cord Wrap"
+    }
+  },
+  {
+    "id": 29,
+    "name": "Thousand Feathers Katana",
+    "category": "KATANA",
+    "price": 120,
+    "originalPrice": 160,
+    "rating": 5,
+    "reviews": 56,
+    "tag": "BESTSELLER",
+    "tagColor": "bg-gold",
+    "image": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779978210597-recmod.jpg",
+    "imageAlt": "Thousand Feathers Katana",
+    "gallery": [
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779978300515-os3uyo.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779978301709-0ydlko.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779978303303-e165ss.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779978305177-4i078z.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779978307263-x9m7up.jpg",
+        "type": "detail",
+        "alt": ""
+      }
+    ],
+    "slug": "thousand-feathers-02996",
+    "inStock": true,
+    "description": "Overall Length: 106.5cm\nBlade Length: 75cm\nHandle Length: 26cm\nBlade Width: 3.2cm\nBlade Thickness: 0.4cm\nScabbard Material: PC-ABS with Leather Wrap\nHandle Material: Solid Wood with Anti-slip Cord\nBlade Material: 5Cr15MoV Stainless Steel\nTotal Weight: Approx. 1050g (750g without scabbard)\n",
+    "specs": {
+      "bladeLength": "75cm",
+      "overallLength": "106.5cm",
+      "weight": "1.05kg",
+      "material": "5Cr15MoV Stainless Steel",
+      "handle": "Solid Wood with Anti-slip Cord"
+    }
+  },
+  {
+    "id": 30,
+    "name": "Golden Bamboo Katana",
+    "category": "KATANA",
+    "price": 135,
+    "originalPrice": 260,
+    "rating": 5,
+    "reviews": 18,
+    "tag": "BESTSELLER",
+    "tagColor": "bg-gold",
+    "image": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779978799236-kidvg1.jpg",
+    "imageAlt": "Golden Bamboo Katana",
+    "gallery": [
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779978807357-hyq96y.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779978808402-vtxiuk.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779978809263-49o9q5.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779978810191-gslxiz.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779978811031-o3h7ou.jpg",
+        "type": "detail",
+        "alt": ""
+      }
+    ],
+    "slug": "golden-bamboo-03073",
+    "inStock": true,
+    "description": "Overall Length: 106cm\nBlade Length: 70cm\nHandle Length: 26cm\nBlade Width: 3.2cm\nBlade Thickness: 0.4cm\nScabbard Material: PC-ABS with Leather Wrap\nHandle Material: Solid Wood with Anti-slip Cord\nBlade Material: 5Cr15MoV Stainless Steel\nTotal Weight: Approx. 1100g (800g without scabbard)\n",
+    "specs": {
+      "bladeLength": "70cm",
+      "overallLength": "106cm",
+      "weight": "1.1kg",
+      "material": "5Cr15MoV Stainless Steel",
+      "handle": "Solid Wood with Anti-slip Cord"
+    }
+  },
+  {
+    "id": 31,
+    "name": "Honghu Tang Sword",
+    "category": "CHINESE SWORD",
+    "price": 115,
+    "originalPrice": 215,
+    "rating": 5,
+    "reviews": 15,
+    "tag": "BESTSELLER",
+    "tagColor": "bg-gold-dark",
+    "image": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779980293087-o8l0cg.png",
+    "imageAlt": "Honghu Tang Sword",
+    "gallery": [
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779980675662-mnqpn0.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779980683987-77qe9m.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779980686883-yobnh5.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779980689965-jcg7di.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779980694927-xuapjj.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779980697224-evxh6p.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779980699556-06nj8s.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779980701781-e8gz4r.png",
+        "type": "detail",
+        "alt": ""
+      }
+    ],
+    "slug": "honghu-tang-05726",
+    "inStock": true,
+    "description": "Overall Length: 107cm\nBlade Length: 70cm\nGrip Length: 21cm\nBlade Width: 4cm\nBlade Thickness: 0.5cm\nTotal Weight: Approx. 1400g\nBlade Material: High-performance Manganese Steel\nScabbard Material: Solid Wood\nWeight without Scabbard: 1050g\nHandle Material: Aluminum Alloy\nFittings: Aluminum Alloy",
+    "specs": {
+      "bladeLength": "70cm",
+      "overallLength": "107cm",
+      "weight": "1.4kg",
+      "material": "High-performance Manganese Steel",
+      "handle": "Aluminum Alloy"
+    }
+  },
+  {
+    "id": 32,
+    "name": "Abyss-Tianzhang Tang Sword",
+    "category": "CHINESE SWORD",
+    "price": 115,
+    "originalPrice": 299,
+    "rating": 5,
+    "reviews": 65,
+    "tag": "BESTSELLER",
+    "tagColor": "bg-gold-dark",
+    "image": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779981450310-pwhmya.png",
+    "imageAlt": "Abyss-Tianzhang Tang Sword",
+    "gallery": [
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779981459373-0cbw3w.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779981460467-9rlhjq.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779981462442-8ywn79.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779981464705-1c2wvb.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779981466418-gwlavb.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779981468396-4ngjq7.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779981471062-kti5fp.png",
+        "type": "detail",
+        "alt": ""
+      }
+    ],
+    "slug": "abyss-tianzhang-05562",
+    "inStock": true,
+    "description": "Overall Length: 102cm\nBlade Length: 73cm\nHandle Length: 25cm\nBlade Width: 3.8cm\nBlade Thickness: 0.5cm\nTotal Weight: Approx. 1550g\nBlade Material: High-performance Manganese Steel\nScabbard Material: Iron with Paint Finish\nWeight without Scabbard: 1100g\nHandle Material: Iron with Paint Finish\nGuard: High-chromium Steel with Paint Finish\n",
+    "specs": {
+      "bladeLength": "73cm",
+      "overallLength": "102cm",
+      "weight": "1.55kg",
+      "material": "High-performance Manganese Steel",
+      "handle": "Iron with Paint Finish"
+    }
+  },
+  {
+    "id": 33,
+    "name": "Purple Abyss Han Sword",
+    "category": "CHINESE SWORD",
+    "price": 115,
+    "originalPrice": 299,
+    "rating": 5,
+    "reviews": 26,
+    "tag": "BESTSELLER",
+    "tagColor": "bg-gold-dark",
+    "image": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779981958149-v0r0jp.png",
+    "imageAlt": "Purple Abyss Han Sword",
+    "gallery": [
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779981969942-ds7imn.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779981973049-9zgjdt.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779981976898-gy0nyd.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779981978933-7rbive.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779981982894-tsejjq.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779981985433-lobelu.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779981991180-cap6tg.png",
+        "type": "detail",
+        "alt": ""
+      }
+    ],
+    "slug": "purple-abyss-05534",
+    "inStock": true,
+    "description": "Overall Length: 102cm\nBlade Length: 73cm\nHandle Length: 24cm\nBlade Width: 3.8cm\nBlade Thickness: 0.5cm\nTotal Weight: Approx. 1050g\nBlade Material: High-performance Manganese Steel\nScabbard Material: Solid Wood with Leather Wrap\nWeight without Scabbard: 750g\nHandle Material: Aluminum Alloy\nFittings: Aluminum Alloy",
+    "specs": {
+      "bladeLength": "73cm",
+      "overallLength": "102cm",
+      "weight": "1.05kg",
+      "material": "High-performance Manganese Steel",
+      "handle": "Aluminum Alloy"
+    }
+  },
+  {
+    "id": 34,
+    "name": "King Qin - Silver Flood Dragon Hollow-out Han Sword",
+    "category": "CHINESE SWORD",
+    "price": 120,
+    "originalPrice": 319,
+    "rating": 5,
+    "reviews": 190,
+    "tag": "BESTSELLER",
+    "tagColor": "bg-gold-dark",
+    "image": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779982327150-nnq2tu.png",
+    "imageAlt": "King Qin - Silver Flood Dragon Hollow-out Han Sword",
+    "gallery": [
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779982335658-xpacyh.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779982338710-lr6dog.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779982344641-zcqr8q.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779982348337-50dxx0.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779982351305-fylds3.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779982354398-qr77h2.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779982357472-omttj4.png",
+        "type": "detail",
+        "alt": ""
+      }
+    ],
+    "slug": "king-qin-05523",
+    "inStock": true,
+    "description": "Overall Length: 103.5cm\nBlade Length: 73cm\nHandle Length: 22.5cm\nBlade Width: 3.9cm\nBlade Thickness: 0.5cm\nTotal Weight: Approx. 1500g\nBlade Material: High-performance Manganese Steel\nScabbard Material: Solid Wood\nWeight without Scabbard: 1000g\nHandle Material: Zinc Alloy\nFittings: Zinc Alloy & Aluminum Alloy\n",
+    "specs": {
+      "bladeLength": "73cm",
+      "overallLength": "103.5cm",
+      "weight": "1.5kg",
+      "material": "High-performance Manganese Steel",
+      "handle": "Zinc Alloy"
+    }
+  },
+  {
+    "id": 35,
+    "name": "Mystic Ice Han Sword",
+    "category": "CHINESE SWORD",
+    "price": 115,
+    "originalPrice": 299,
+    "rating": 5,
+    "reviews": 39,
+    "tag": "BESTSELLER",
+    "tagColor": "bg-gold-dark",
+    "image": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779982587067-q3ucel.png",
+    "imageAlt": "Mystic Ice Han Sword",
+    "gallery": [
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779982593997-j5c6u8.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779982596698-2t2rwl.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779982599480-czjwnb.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779982602242-vmzprz.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779982606738-q9fj2k.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779982608968-kbgsqx.png",
+        "type": "detail",
+        "alt": ""
+      }
+    ],
+    "slug": "mystic-ice-05522",
+    "inStock": true,
+    "description": "Overall Length: 102cm\nBlade Length: 73cm\nHandle Length: 24cm\nBlade Width: 3.8cm\nBlade Thickness: 0.4cm\nTotal Weight: Approx. 900g\nBlade Material: High-performance Manganese Steel\nScabbard Material: Solid Wood with Leather Wrap\nWeight without Scabbard: 700g\nHandle Material: Aluminum Alloy\nFittings: Aluminum Alloy\n",
+    "specs": {
+      "bladeLength": "73cm",
+      "overallLength": "102cm",
+      "weight": "0.9kg",
+      "material": "High-performance Manganese Steel",
+      "handle": "Aluminum Alloy"
+    }
+  },
+  {
+    "id": 36,
+    "name": "Ghost Subduing Han Sword",
+    "category": "CHINESE SWORD",
+    "price": 115,
+    "originalPrice": 299,
+    "rating": 5,
+    "reviews": 69,
+    "tag": "BESTSELLER",
+    "tagColor": "bg-gold-dark",
+    "image": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779982815089-aqcwgj.png",
+    "imageAlt": "Ghost Subduing Han Sword",
+    "gallery": [
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779982826822-9pqr36.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779982830837-dx5jh9.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779982835237-ah46nl.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779982839053-5tbn88.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779982844142-dti3pt.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779982847891-mn1emu.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779982851490-30dj3l.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779982853834-r3rhv0.png",
+        "type": "detail",
+        "alt": ""
+      }
+    ],
+    "slug": "ghost-subduing-05520",
+    "inStock": true,
+    "description": "Overall Length: 102cm\nBlade Length: 73cm\nHandle Length: 24cm\nBlade Width: 3.8cm\nBlade Thickness: 0.4cm\nTotal Weight: Approx. 1000g\nBlade Material: High-performance Manganese Steel\nScabbard Material: Solid Wood with Leather Wrap\nWeight without Scabbard: 750g\nHandle Material: Aluminum Alloy\nFittings: Aluminum Alloy",
+    "specs": {
+      "bladeLength": "73cm",
+      "overallLength": "102cm",
+      "weight": "1.0kg",
+      "material": "High-performance Manganese Steel",
+      "handle": "Aluminum Alloy"
+    }
+  },
+  {
+    "id": 37,
+    "name": "Twin Dragons - Fierce Battle Sword",
+    "category": "CHINESE SWORD",
+    "price": 115,
+    "originalPrice": 299,
+    "rating": 5,
+    "reviews": 96,
+    "tag": "BESTSELLER",
+    "tagColor": "bg-gold-dark",
+    "image": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779983377922-nvyr9l.png",
+    "imageAlt": "Twin Dragons - Fierce Battle Sword",
+    "gallery": [
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779983388053-xvwt4i.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779983391884-xww5es.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779983394114-b4am1c.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779983396449-rdchkz.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779983399956-hpm8lu.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779983403309-0e1poe.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779983406816-dro97o.png",
+        "type": "detail",
+        "alt": ""
+      }
+    ],
+    "slug": "twin-dragons-05504",
+    "inStock": true,
+    "description": "Overall Length: 110cm\nBlade Length: 70cm\nHandle Length: 29cm\nBlade Width: 5.0cm\nBlade Thickness: 0.5cm\nTotal Weight: Approx. 1700g\nBlade Material: High-performance Manganese Steel\nScabbard Material: Solid Wood\nWeight without Scabbard: 1300g\nHandle Material: Aluminum Alloy\nFittings: Aluminum Alloy\t",
+    "specs": {
+      "bladeLength": "70cm",
+      "overallLength": "110cm",
+      "weight": "1.7kg",
+      "material": "High-performance Manganese Steel",
+      "handle": "Aluminum Alloy"
+    }
+  },
+  {
+    "id": 38,
+    "name": "King Qin - Decaying Bone Han Sword",
+    "category": "CHINESE SWORD",
+    "price": 115,
+    "originalPrice": 299,
+    "rating": 5,
+    "reviews": 94,
+    "tag": "BESTSELLER",
+    "tagColor": "bg-gold-dark",
+    "image": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779983721390-f16lmo.png",
+    "imageAlt": "King Qin - Decaying Bone Han Sword",
+    "gallery": [
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779983748159-edr4nh.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779983751013-jbv745.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779983752241-42h87h.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779983753144-lbm891.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779983754148-vtco6a.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779983756074-77k66s.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779983759579-aj252o.png",
+        "type": "detail",
+        "alt": ""
+      }
+    ],
+    "slug": "king-qin-05468",
+    "inStock": true,
+    "description": "Overall Length: 103.5cm\nBlade Length: 73cm\nHandle Length: 22.5cm\nBlade Width: 3.8cm\nBlade Thickness: 0.5cm\nTotal Weight: Approx. 1550g\nBlade Material: High-performance Manganese Steel\nScabbard Material: Rosewood\nWeight without Scabbard: 1000g\nHandle Material: Zinc Alloy\nFittings: Zinc Alloy & Aluminum Alloy",
+    "specs": {
+      "bladeLength": "73cm",
+      "overallLength": "103.5cm",
+      "weight": "1.55kg",
+      "material": "High-performance Manganese Steel",
+      "handle": "Zinc Alloy"
+    }
+  },
+  {
+    "id": 39,
+    "name": "Dark Forged Han Sword",
+    "category": "CHINESE SWORD",
+    "price": 115,
+    "originalPrice": 299,
+    "rating": 5,
+    "reviews": 0,
+    "tag": "BESTSELLER",
+    "tagColor": "bg-gold-dark",
+    "image": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779984041212-wnf1h9.png",
+    "imageAlt": "Dark Forged Han Sword",
+    "gallery": [
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779984052411-z60yx6.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779984055046-xibg9g.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779984056065-1p1kdu.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779984056947-ygzejc.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779984057888-y9yivb.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779984061066-tgf1n7.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779984062030-4gv4oo.png",
+        "type": "detail",
+        "alt": ""
+      }
+    ],
+    "slug": "dark-forged-05443",
+    "inStock": true,
+    "description": "Overall Length: 101.5cm\nBlade Length: 73cm\nHandle Length: 23.5cm\nBlade Width: 3.85cm\nBlade Thickness: 0.5cm\nTotal Weight: Approx. 1350g\nBlade Material: High-performance Manganese Steel\nScabbard Material: Solid Wood with Leather Wrap\nWeight without Scabbard: 1100g\nHandle Material: Aluminum Alloy\nFittings: 106 Aluminum Alloy",
+    "specs": {
+      "bladeLength": "73cm",
+      "overallLength": "101.5cm",
+      "weight": "1.35kg",
+      "material": "High-performance Manganese Steel",
+      "handle": "Aluminum Alloy"
+    }
+  },
+  {
+    "id": 40,
+    "name": "Suspended Light Black Edge Tang Sword",
+    "category": "CHINESE SWORD",
+    "price": 115,
+    "originalPrice": 299,
+    "rating": 5,
+    "reviews": 63,
+    "tag": "BESTSELLER",
+    "tagColor": "bg-gold-dark",
+    "image": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779984378859-4fq1ij.png",
+    "imageAlt": "Suspended Light Black Edge Tang Sword",
+    "gallery": [
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779984388344-d97vth.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779984391322-p0ran6.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779984393415-48j9fn.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779984395888-1snqu7.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779984400072-1suj0d.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779984404724-hqapb8.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1779984409423-7dyw0w.png",
+        "type": "detail",
+        "alt": ""
+      }
+    ],
+    "slug": "suspended-light-05357",
+    "inStock": true,
+    "description": "Overall Length: 107.5cm\nBlade Length: 74cm\nHandle Length: 31cm\nBlade Width: 3.8cm\nBlade Thickness: 0.5cm\nTotal Weight: Approx. 1400g\nBlade Material: High-performance Manganese Steel\nScabbard Material: PC-ABS with Leather Wrap\nWeight without Scabbard: 1000g\nHandle Material: PC-ABS with Cord Wrap\nFittings: Aluminum Alloy",
+    "specs": {
+      "bladeLength": "74cm",
+      "overallLength": "107.5cm",
+      "weight": "1.4kg",
+      "material": "High-performance Manganese Steel",
+      "handle": "PC-ABS with Cord Wrap"
+    }
+  },
+  {
+    "id": 41,
+    "name": "Huating Wind-Chopping Tang Sword",
+    "category": "CHINESE SWORD",
+    "price": 115,
+    "originalPrice": 299,
+    "rating": 5,
+    "reviews": 69,
+    "tag": "BESTSELLER",
+    "tagColor": "bg-gold-dark",
+    "image": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780021338991-yq1c8b.png",
+    "imageAlt": "Huating Wind-Chopping Tang Sword",
+    "gallery": [
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780021349245-tqj8sh.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780021350138-iy5ifu.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780021350986-us2zo7.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780021351837-bplang.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780021352659-av3x4t.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780021353794-91xhjf.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780021354625-d1t7uu.png",
+        "type": "detail",
+        "alt": ""
+      }
+    ],
+    "slug": "huating-wind-05333",
+    "inStock": true,
+    "description": "Overall length: 104cm\nBlade length: 73cm\nHandle length: 28cm\nBlade width: 3.4cm\nBlade thickness: 0.4cm\nWeight: approx. 1200g\nBlade material: High-performance manganese steel\nScabbard material: Rosewood\nWeight without scabbard: 700g\nHandle material: Rosewood\nFittings: Alloy",
+    "specs": {
+      "bladeLength": "73cm",
+      "overallLength": "104cm",
+      "weight": "1.2kg",
+      "material": "High-performance manganese steel",
+      "handle": "Rosewood"
+    }
+  },
+  {
+    "id": 42,
+    "name": "Dragon Shadow Cold Edge Tang Sword",
+    "category": "CHINESE SWORD",
+    "price": 115,
+    "originalPrice": 299,
+    "rating": 5,
+    "reviews": 96,
+    "tag": "BESTSELLER",
+    "tagColor": "bg-gold-dark",
+    "image": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780021640506-viqhbm.png",
+    "imageAlt": "Dragon Shadow Cold Edge Tang Sword",
+    "gallery": [
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780021648406-gj7e1u.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780021649411-shyau8.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780021650452-bb6usg.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780021652554-nuo0er.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780021653462-ohqiq6.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780021654449-o34au7.png",
+        "type": "detail",
+        "alt": ""
+      }
+    ],
+    "slug": "dragon-shadow-05337",
+    "inStock": true,
+    "description": "Overall length: 100cm\nBlade length: 71cm\nHandle length: 25cm\nBlade width: 3.0cm\nBlade thickness: 0.4cm\nWeight: approx. 1050g\nBlade material: High-chromium steel\nScabbard material: PC-ABS with leather wrap\nWeight without scabbard: 750g\nHandle material: PC-ABS with leather wrap\nFittings: PC-ABS",
+    "specs": {
+      "bladeLength": "71cm",
+      "overallLength": "100cm",
+      "weight": "1.05kg",
+      "material": "High-chromium steel",
+      "handle": "PC-ABS with leather wrap"
+    }
+  },
+  {
+    "id": 43,
+    "name": "Triumph Battle Sword",
+    "category": "CHINESE SWORD",
+    "price": 115,
+    "originalPrice": 299,
+    "rating": 5,
+    "reviews": 91,
+    "tag": "BESTSELLER",
+    "tagColor": "bg-gold-dark",
+    "image": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780021991549-nwdz2b.png",
+    "imageAlt": "Triumph Battle Sword",
+    "gallery": [
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780022003460-pbgxa5.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780022004353-f2xjcj.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780022005343-2kq42a.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780022006252-dl17sk.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780022007189-u2qcay.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780022008013-irg0nk.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780022008867-mhu1qu.png",
+        "type": "detail",
+        "alt": ""
+      }
+    ],
+    "slug": "triumph-battle-05251",
+    "inStock": true,
+    "description": "Overall length: 108cm\nBlade length: 72.5cm\nHandle length: 29cm\nBlade width: 3.8cm\nBlade thickness: 0.5cm\nWeight: approx. 1700g\nBlade material: High-performance manganese steel\nScabbard material: South American teak\nWeight without scabbard: 1200g\nHandle material: South American teak\nFittings: Stainless steel",
+    "specs": {
+      "bladeLength": "72.5cm",
+      "overallLength": "108cm",
+      "weight": "1.7kg",
+      "material": "High-performance manganese steel",
+      "handle": "South American teak"
+    }
+  },
+  {
+    "id": 44,
+    "name": "Zhi Kai Tang Sword",
+    "category": "CHINESE SWORD",
+    "price": 115,
+    "originalPrice": 299,
+    "rating": 5,
+    "reviews": 19,
+    "tag": "BESTSELLER",
+    "tagColor": "bg-gold-dark",
+    "image": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780022330687-xxbkk9.png",
+    "imageAlt": "Zhi Kai Tang Sword",
+    "gallery": [
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780022346623-v938dr.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780022347613-jcfnqd.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780022348572-k9tn8j.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780022349478-jj1ye9.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780022350931-x3xwj7.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780022352527-j1fujm.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780022354351-64mose.png",
+        "type": "detail",
+        "alt": ""
+      }
+    ],
+    "slug": "zhi-kai-04954",
+    "inStock": true,
+    "description": "Overall length: 103cm\nBlade length: 72.5cm\nHandle length: 29.5cm\nBlade width: 3.9cm\nBlade thickness: 0.5cm\nWeight: approx. 1650g\nBlade material: High-performance manganese steel\nScabbard material: Rosewood\nWeight without scabbard: 1100g\nHandle material: Solid wood with cord wrap\nFittings: High-chromium steel\n",
+    "specs": {
+      "bladeLength": "72.5cm",
+      "overallLength": "103cm",
+      "weight": "1.1kg",
+      "material": "High-chromium steel",
+      "handle": "Solid wood with cord wrap"
+    }
+  },
+  {
+    "id": 45,
+    "name": "Burning Heart Tang Sword",
+    "category": "CHINESE SWORD",
+    "price": 115,
+    "originalPrice": 299,
+    "rating": 5,
+    "reviews": 64,
+    "tag": "BESTSELLER",
+    "tagColor": "bg-gold-dark",
+    "image": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780022711351-hrc3er.png",
+    "imageAlt": "Burning Heart Tang Sword",
+    "gallery": [
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780022721742-z2ll45.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780022723084-672s5z.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780022724376-h8fm5t.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780022725211-htvekw.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780022726193-s7eh3f.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780022727074-c2yht0.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780022728026-uh8orc.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780022728977-u9pryk.png",
+        "type": "detail",
+        "alt": ""
+      }
+    ],
+    "slug": "burning-heart-05604",
+    "inStock": true,
+    "description": "Overall length: 110cm\nBlade length: 73cm\nHandle length: 29cm\nMax blade width: 3.9cm\nBlade thickness: 0.5cm\nWeight: approx. 1500g\nBlade material: High-performance manganese steel\nScabbard material: Aluminum alloy\nWeight without scabbard: 1150g\nHandle material: Aluminum alloy\nFittings: Aluminum alloy\n",
+    "specs": {
+      "bladeLength": "73cm",
+      "overallLength": "110cm",
+      "weight": "1.5kg",
+      "material": "High-performance manganese steel",
+      "handle": "Aluminum alloy"
+    }
+  },
+  {
+    "id": 46,
+    "name": "One-Line Fine Sword ",
+    "category": "CHINESE SWORD",
+    "price": 100,
+    "originalPrice": 280,
+    "rating": 5,
+    "reviews": 62,
+    "tag": "BESTSELLER",
+    "tagColor": "bg-gold-dark",
+    "image": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780023023004-k41nx1.png",
+    "imageAlt": "One-Line Fine Sword ",
+    "gallery": [
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780023030485-5zwpfx.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780023031311-tjgkx4.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780023032178-on3zbj.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780023032948-9hbs75.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780023040961-ge6vmh.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780023041948-k54auz.png",
+        "type": "detail",
+        "alt": ""
+      }
+    ],
+    "slug": "one-line-05757",
+    "inStock": true,
+    "description": "Overall length: 104cm\nBlade length: 79.5cm\nHandle length: 23.5cm\nBlade width: 1.6cm\nBlade thickness: 0.4cm\nWeight: approx. 650g\nBlade material: High-performance manganese steel\nHandle material: High-performance manganese steel\n",
+    "specs": {
+      "bladeLength": "79.5cm",
+      "overallLength": "104cm",
+      "weight": "0.65kg",
+      "material": "High-performance Manganese Steel",
+      "handle": "High-performance manganese steel"
+    }
+  },
+  {
+    "id": 47,
+    "name": "Sky Steed Firmament Sword",
+    "category": "CHINESE SWORD",
+    "price": 115,
+    "originalPrice": 399,
+    "rating": 5,
+    "reviews": 91,
+    "tag": "BESTSELLER",
+    "tagColor": "bg-gold-dark",
+    "image": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780039725116-fil0vq.png",
+    "imageAlt": "Sky Steed Firmament Sword",
+    "gallery": [
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780039735857-70rp9w.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780039737511-6jou3k.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780039738384-pyhniv.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780039739308-jyjsvu.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780039740210-eavw8h.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780039741199-10qaml.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780039742006-twah2x.png",
+        "type": "detail",
+        "alt": ""
+      }
+    ],
+    "slug": "sky-steed-05809",
+    "inStock": true,
+    "description": "Overall length: 103cm\nBlade length: 71cm\nHandle length: 27.7cm\nBlade width: 3.15cm\nBlade thickness: 0.5cm\nWeight: approx. 1350g\nBlade material: High-performance manganese steel\nScabbard material: Painted iron\nWeight without scabbard: 800g\nHandle material: Aluminum alloy\nFittings: Aluminum alloy\n",
+    "specs": {
+      "bladeLength": "71cm",
+      "overallLength": "103cm",
+      "weight": "1.35kg",
+      "material": "High-performance manganese steel",
+      "handle": "Aluminum alloy"
+    }
+  },
+  {
+    "id": 48,
+    "name": "Withered Bamboo Staff-Sword",
+    "category": "CHINESE SWORD",
+    "price": 105,
+    "originalPrice": 299,
+    "rating": 5,
+    "reviews": 64,
+    "tag": "BESTSELLER",
+    "tagColor": "bg-gold-dark",
+    "image": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780040075327-fb3m36.png",
+    "imageAlt": "Withered Bamboo Staff-Sword",
+    "gallery": [
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780040089301-axqv42.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780040090664-pskb52.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780040092529-ko9je6.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780040094141-9jidm3.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780040095937-1p5nbv.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780040097945-37bsho.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780040099532-os52l9.png",
+        "type": "detail",
+        "alt": ""
+      }
+    ],
+    "slug": "withered-bamboo-05816",
+    "inStock": true,
+    "description": "Overall length: 105cm\nExtended length (reverse assembly): 161cm\nBlade length: 65cm\nHandle length: 25.5cm\nBlade width: 1.8cm\nBlade thickness: 0.4cm\nWeight: approx. 1000g\nBlade material: High-performance manganese steel\nScabbard material: Carbon steel\nWeight without scabbard: 550g\nHandle material: Carbon steel",
+    "specs": {
+      "bladeLength": "65cm",
+      "overallLength": "105cm",
+      "weight": "1.0kg",
+      "material": "High-performance manganese steel",
+      "handle": "Carbon steel"
+    }
+  },
+  {
+    "id": 49,
+    "name": "Ruins Burning Greatsword",
+    "category": "CHINESE SWORD",
+    "price": 130,
+    "originalPrice": 399,
+    "rating": 5,
+    "reviews": 81,
+    "tag": "BESTSELLER",
+    "tagColor": "bg-gold-dark",
+    "image": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780040422042-xudovf.png",
+    "imageAlt": "Ruins Burning Greatsword",
+    "gallery": [
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780040465359-wmd7uk.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780040467025-9fochv.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780040468545-a1345p.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780040469888-3k9cgo.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780040471580-k27hwu.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780040473202-b5ztup.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780040474031-d1pjvu.png",
+        "type": "detail",
+        "alt": ""
+      }
+    ],
+    "slug": "ruins-burning-05808",
+    "inStock": true,
+    "description": "Overall length: 103.5cm\nBlade length: 69cm\nGrip length: 29cm\nBlade width: 10cm\nBlade thickness: 0.5cm\nBlade material: High-performance manganese steel\nHandle material: Aluminum alloy\nWeight: approx. 1650g",
+    "specs": {
+      "bladeLength": "69cm",
+      "overallLength": "103.5cm",
+      "weight": "1.65kg",
+      "material": "High-performance manganese steel",
+      "handle": "Aluminum alloy"
+    }
+  },
+  {
+    "id": 50,
+    "name": "Overlord Rapier",
+    "category": "CHINESE SWORD",
+    "price": 120,
+    "originalPrice": 399,
+    "rating": 5,
+    "reviews": 24,
+    "tag": "BESTSELLER",
+    "tagColor": "bg-gold-dark",
+    "image": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780040820990-po9poj.png",
+    "imageAlt": "Overlord Rapier",
+    "gallery": [
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780040902827-khejip.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780040904755-8ic7vc.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780040906475-w0pveo.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780040907338-7avc6h.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780040908250-0bf5s3.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780040909434-6hyuqc.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780040911174-1gaglz.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780040912006-ey7yu6.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780040913529-f8e57d.png",
+        "type": "detail",
+        "alt": ""
+      }
+    ],
+    "slug": "overlord-rapier-04953",
+    "inStock": true,
+    "description": "Overall length: 115.5cm\nBlade length: 71cm\nHandle length: 35cm\nBlade width: 5cm\nBlade thickness: 0.4cm\nWeight: approx. 1900g\nBlade material: High-chromium steel\nScabbard material: PU leather\nWeight without scabbard: 1600g\nHandle material: Solid wood with cord wrap\nFittings: Alloy",
+    "specs": {
+      "bladeLength": "71cm",
+      "overallLength": "115.5cm",
+      "weight": "1.9kg",
+      "material": "High-chromium steel",
+      "handle": "Solid wood with cord wrap"
+    }
+  },
+  {
+    "id": 51,
+    "name": "Dragon Blade Sword",
+    "category": "CHINESE SWORD",
+    "price": 115,
+    "originalPrice": 299,
+    "rating": 5,
+    "reviews": 26,
+    "tag": "BESTSELLER",
+    "tagColor": "bg-gold-dark",
+    "image": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780041303629-q058j0.png",
+    "imageAlt": "Dragon Blade Sword",
+    "gallery": [
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780041317817-7msajk.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780041319536-xjm39n.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780041321212-i7xkc4.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780041323075-pxf8z8.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780041323916-glc5sm.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780041324754-4jd9xd.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780041326442-vr3hyc.png",
+        "type": "detail",
+        "alt": ""
+      }
+    ],
+    "slug": "dragon-blade-05625",
+    "inStock": true,
+    "description": "Overall length: 104.5cm\nBlade length: 79.5cm\nHandle length: 20.5cm\nBlade width: 1.65cm\nBlade thickness: 0.6cm\nWeight: approx. 1200g\nBlade material: Manganese steel\nScabbard material: High-chromium steel\nBlade only weight: 600g\nFittings: Aluminum alloy",
+    "specs": {
+      "bladeLength": "79.5cm",
+      "overallLength": "104.5cm",
+      "weight": "1.2kg",
+      "material": "Manganese steel",
+      "handle": "Aluminum alloy"
+    }
+  },
+  {
+    "id": 52,
+    "name": "Ring Pommel Tang Saber",
+    "category": "CHINESE BLADE",
+    "price": 115,
+    "originalPrice": 299,
+    "rating": 5,
+    "reviews": 93,
+    "tag": "BESTSELLER",
+    "tagColor": "bg-crimson",
+    "image": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780041992540-tyhxb3.png",
+    "imageAlt": "Ring Pommel Tang Sword",
+    "gallery": [
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780042002173-tb9u9u.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780042003138-6jda6h.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780042004873-0vnu1t.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780042005823-yuc9oh.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780042006624-49vza6.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780042008677-rjwhf6.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780042009559-yzr5l2.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780042010773-2rey53.png",
+        "type": "detail",
+        "alt": ""
+      }
+    ],
+    "slug": "ring-pommel-05736",
+    "inStock": true,
+    "description": "Overall length: 112cm\nBlade length: 71cm\nGrip length: 29cm\nBlade width: 3.2cm\nBlade thickness: 0.4cm\nWeight: approx. 1200g\nBlade material: High-performance manganese steel\nScabbard material: Wood wrapped with leather\nWeight without scabbard: 900g\nHandle material: Solid wood with cord wrap\nFittings: Zinc alloy",
+    "specs": {
+      "bladeLength": "71cm",
+      "overallLength": "112cm",
+      "weight": "1.2kg",
+      "material": "High-performance manganese steel",
+      "handle": "Solid wood with cord wrap"
+    }
+  },
+  {
+    "id": 53,
+    "name": "Twisted Handle Ox-Tail Saber",
+    "category": "CHINESE BLADE",
+    "price": 115,
+    "originalPrice": 299,
+    "rating": 5,
+    "reviews": 92,
+    "tag": "BESTSELLER",
+    "tagColor": "bg-crimson",
+    "image": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780042517985-wyjzn3.png",
+    "imageAlt": "Twisted Handle Ox-Tail Saber",
+    "gallery": [
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780042526799-n24kds.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780042528379-7g64ae.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780042529266-yc7dbm.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780042531303-0ero52.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780042533501-m2kfiz.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780042534473-ny88ct.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780042535295-smltc8.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780042537199-g7g0oh.png",
+        "type": "detail",
+        "alt": ""
+      }
+    ],
+    "slug": "twisted-handle-05695",
+    "inStock": true,
+    "description": "Overall length: 80cm\nBlade length: 57cm\nHandle length: 22cm\nBlade width: 4.3cm\nBlade thickness: 0.5cm\nWeight: approx. 1750g\nBlade material: High-performance manganese steel\nScabbard material: PU leather sheath\nHandle material: Carbon steel",
+    "specs": {
+      "bladeLength": "57cm",
+      "overallLength": "80cm",
+      "weight": "1.75kg",
+      "material": "High-performance manganese steel",
+      "handle": "Carbon steel"
+    }
+  },
+  {
+    "id": 54,
+    "name": "Ink Prison Crane Feather Tang Dao",
+    "category": "CHINESE BLADE",
+    "price": 115,
+    "originalPrice": 299,
+    "rating": 5,
+    "reviews": 32,
+    "tag": "BESTSELLER",
+    "tagColor": "bg-crimson",
+    "image": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780061918766-p0ncao.png",
+    "imageAlt": "Ink Prison Crane Feather Tang Dao",
+    "gallery": [
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780061928101-zun4jl.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780061929189-u2sdnd.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780061930238-phei4n.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780061931263-6uazsm.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780061933344-18ityy.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780061934341-3dlsi4.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780061935530-sh6aha.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780061936549-ehqqvy.png",
+        "type": "detail",
+        "alt": ""
+      }
+    ],
+    "slug": "ink-prison-05669",
+    "inStock": true,
+    "description": "Overall Length: 93cm\nBlade Length: 65cm\nHandle Length: 26cm\nBlade Width: 3.2cm\nBlade Thickness: 0.5cm\nWeight: approx. 1500g\nBlade Material: High-performance Manganese Steel\nScabbard: Painted Iron\nWeight (Without Scabbard): 1000g\nHandle: Painted Iron\nGuard: Painted Manganese Steel\n",
+    "specs": {
+      "bladeLength": "65cm",
+      "overallLength": "93cm",
+      "weight": "1.5kg",
+      "material": "High-performance Manganese Steel",
+      "handle": "Painted Iron"
+    }
+  },
+  {
+    "id": 55,
+    "name": "Blood Glutton Long-handle Imperial Guard Blade",
+    "category": "CHINESE BLADE",
+    "price": 120,
+    "originalPrice": 329,
+    "rating": 5,
+    "reviews": 96,
+    "tag": "BESTSELLER",
+    "tagColor": "bg-crimson",
+    "image": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780062285762-2x8ewr.png",
+    "imageAlt": "Blood Glutton Long-handle Imperial Guard Blade",
+    "gallery": [
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780062293868-bskq9h.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780062295566-8c9lb7.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780062297458-h46qeu.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780062300385-7wnkhb.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780062301691-a7tt63.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780062304002-60tfpw.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780062306289-ggcxk5.png",
+        "type": "detail",
+        "alt": ""
+      }
+    ],
+    "slug": "blood-glutton-05654",
+    "inStock": true,
+    "description": "Overall Length: 139cm\nBlade Length: 59.5cm\nHandle Length: 70cm\nBlade Width: 4.6cm\nBlade Thickness: 0.5cm\nWeight: approx. 1950g\nBlade Material: High-performance Manganese Steel\nScabbard: South American Teak\nWeight (Without Scabbard): 1400g\nHandle Material: South American Teak\nFittings: Aluminum Alloy",
+    "specs": {
+      "bladeLength": "59.5cm",
+      "overallLength": "139cm",
+      "weight": "1.95kg",
+      "material": "High-performance Manganese Steel",
+      "handle": "South American Teak"
+    }
+  },
+  {
+    "id": 56,
+    "name": "Toothed Tiger - Imperial Inscription Tang Dao",
+    "category": "CHINESE BLADE",
+    "price": 115,
+    "originalPrice": 299,
+    "rating": 5,
+    "reviews": 91,
+    "tag": "BESTSELLER",
+    "tagColor": "bg-crimson",
+    "image": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780062590162-ykb4ex.png",
+    "imageAlt": "Toothed Tiger - Imperial Inscription Tang Dao",
+    "gallery": [
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780062599598-ybfq1x.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780062601034-qcr7vb.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780062603707-tmetot.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780062607803-g6jgac.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780062609433-0w0sxn.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780062610941-ash7w9.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780062612534-98nt24.png",
+        "type": "detail",
+        "alt": ""
+      }
+    ],
+    "slug": "toothed-tiger-05652",
+    "inStock": true,
+    "description": "Overall Length: 105cm\nBlade Length: 71.5cm\nHandle Length: 28cm\nBlade Width: 3.15cm\nBlade Thickness: 0.4cm\nWeight: approx. 1350g\nBlade Material: High-performance Manganese Steel\nScabbard: Painted Iron\nWeight (Without Scabbard): 750g\nHandle Material: Aluminum Alloy\nFittings: Aluminum Alloy",
+    "specs": {
+      "bladeLength": "71.5cm",
+      "overallLength": "105cm",
+      "weight": "1.35kg",
+      "material": "High-performance Manganese Steel",
+      "handle": "Aluminum Alloy"
+    }
+  },
+  {
+    "id": 57,
+    "name": "Moonlight Embroidery Spring Blade",
+    "category": "CHINESE BLADE",
+    "price": 115,
+    "originalPrice": 299,
+    "rating": 5,
+    "reviews": 21,
+    "tag": "BESTSELLER",
+    "tagColor": "bg-crimson",
+    "image": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780063003502-jliv2l.png",
+    "imageAlt": "Moonlight Embroidery Spring Blade",
+    "gallery": [
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780063011101-izj0f2.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780063012008-ua3f8t.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780063012926-iwq39m.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780063013909-3vhfte.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780063014896-le0vkj.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780063015815-q31utt.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780063017045-s8t6j5.png",
+        "type": "detail",
+        "alt": ""
+      }
+    ],
+    "slug": "moonlight-embroidery-05638",
+    "inStock": true,
+    "description": "Overall Length: 109cm\nBlade Length: 76.5cm\nHandle Length: 27.5cm (Chain Pommel Guard)\nBlade Width: 4.2cm\nBlade Thickness: 0.5cm\nWeight: approx. 1850g\nBlade Material: High-performance Manganese Steel\nScabbard: South American Teak\nWeight (Without Scabbard): 1300g\nHandle Material: Aluminum Alloy\nFittings: Aluminum Alloy\n",
+    "specs": {
+      "bladeLength": "76.5cm",
+      "overallLength": "109cm",
+      "weight": "1.85kg",
+      "material": "High-performance Manganese Steel",
+      "handle": "Aluminum Alloy"
+    }
+  },
+  {
+    "id": 58,
+    "name": "Blooddrink - Fearless Battle Blade",
+    "category": "CHINESE BLADE",
+    "price": 115,
+    "originalPrice": 299,
+    "rating": 5,
+    "reviews": 51,
+    "tag": "BESTSELLER",
+    "tagColor": "bg-crimson",
+    "image": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780063299354-maskh1.png",
+    "imageAlt": "Blooddrink - Fearless Battle Blade",
+    "gallery": [
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780063306285-1ej24j.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780063309321-o7yoix.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780063313240-jxchsd.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780063317841-xxilqk.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780063320900-ddyxpn.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780063323186-sxpqs2.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780063325213-becqy2.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780063327858-vpvwjt.png",
+        "type": "detail",
+        "alt": ""
+      }
+    ],
+    "slug": "blooddrink-05621",
+    "inStock": true,
+    "description": "Overall Length: 104cm\nBlade Length: 68cm\nHandle Length: 26cm\nBlade Width: 4.3cm\nBlade Thickness: 0.5cm\nWeight: approx. 1850g\nBlade Material: High-performance Manganese Steel\nScabbard: Dyed Solid Wood\nWeight (Without Scabbard): 1350g\nHandle Material: Aluminum Alloy\nFittings: Aluminum Alloy\n",
+    "specs": {
+      "bladeLength": "68cm",
+      "overallLength": "104cm",
+      "weight": "1.85kg",
+      "material": "High-performance Manganese Steel",
+      "handle": "Aluminum Alloy"
+    }
+  },
+  {
+    "id": 59,
+    "name": "Nether Prison - Dragon Abyss Tang Sword",
+    "category": "CHINESE BLADE",
+    "price": 115,
+    "originalPrice": 299,
+    "rating": 5,
+    "reviews": 63,
+    "tag": "BESTSELLER",
+    "tagColor": "bg-crimson",
+    "image": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780063850002-7wojrm.png",
+    "imageAlt": "Nether Prison - Dragon Abyss Tang Sword",
+    "gallery": [
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780063856244-rz2h75.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780063857182-0zsmts.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780063859039-exu0j8.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780063861259-97sxo1.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780063862313-7qgfuo.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780063863243-aglpyw.png",
+        "type": "detail",
+        "alt": ""
+      }
+    ],
+    "slug": "nether-prison-05564",
+    "inStock": true,
+    "description": "Overall Length: 102cm\nBlade Length: 71cm\nHandle Length: 25cm\nBlade Width: 3.2cm\nBlade Thickness: 0.4cm\nWeight: approx. 1400g\nBlade Material: High-performance Manganese Steel\nScabbard: Painted Iron\nWeight (Without Scabbard): 950g\nHandle Material: Painted Iron\nGuard: Painted High-Chromium Steel",
+    "specs": {
+      "bladeLength": "71cm",
+      "overallLength": "102cm",
+      "weight": "1.4kg",
+      "material": "High-performance Manganese Steel",
+      "handle": "Painted Iron"
+    }
+  },
+  {
+    "id": 60,
+    "name": "Dragon Roar - Cheng Xuan Curved Blade",
+    "category": "CHINESE BLADE",
+    "price": 115,
+    "originalPrice": 299,
+    "rating": 5,
+    "reviews": 63,
+    "tag": "BESTSELLER",
+    "tagColor": "bg-crimson",
+    "image": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780064190551-jt0d9p.png",
+    "imageAlt": "Dragon Roar - Cheng Xuan Curved Blade",
+    "gallery": [
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780064198600-s1h4a4.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780064199840-2if76u.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780064202308-7kpttj.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780064204810-5u1709.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780064206982-q4ju6r.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780064209237-4ow2cz.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780064211457-ljxrmh.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780064213770-6h0au9.png",
+        "type": "detail",
+        "alt": ""
+      }
+    ],
+    "slug": "dragon-roar--05556",
+    "inStock": true,
+    "description": "Overall Length: 82cm\nBlade Length: 56cm\nHandle Length: 19cm\nBlade Width: 3.95cm\nBlade Thickness: 0.5cm\nWeight: approx. 1200g\nBlade Material: High-performance Manganese Steel\nScabbard: Dyed Solid Wood\nWeight (Without Scabbard): 750g\nHandle Material: Aluminum Alloy\nFittings: Aluminum Alloy",
+    "specs": {
+      "bladeLength": "56cm",
+      "overallLength": "82cm",
+      "weight": "1.2kg",
+      "material": "High-performance Manganese Steel",
+      "handle": "Aluminum Alloy"
+    }
+  },
+  {
+    "id": 61,
+    "name": "Tsunami Kukri",
+    "category": "CHINESE BLADE",
+    "price": 105,
+    "originalPrice": 269,
+    "rating": 5,
+    "reviews": 66,
+    "tag": "BESTSELLER",
+    "tagColor": "bg-crimson",
+    "image": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780064555015-gpl1vo.png",
+    "imageAlt": "Tsunami Kukri",
+    "gallery": [
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780064567534-yh05q6.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780064569190-xrjmws.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780064571688-5tzgs7.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780064574572-x9m7u5.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780064576441-fkshlh.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780064578138-2whrt1.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780064579759-y2126k.png",
+        "type": "detail",
+        "alt": ""
+      }
+    ],
+    "slug": "tsunami-kukri-05542",
+    "inStock": true,
+    "description": "Overall Length: 77cm\nBlade Length: 54.5cm\nHandle Length: 21.5cm\nBlade Width: 5.3cm\nBlade Thickness: 0.4cm\nWeight: approx. 900g\nBlade Material: High-performance Manganese Steel\nScabbard: N/A\nHandle Material: PC-ABS",
+    "specs": {
+      "bladeLength": "54.5cm",
+      "overallLength": "77cm",
+      "weight": "0.9kg",
+      "material": "High-performance Manganese Steel",
+      "handle": "PC-ABS"
+    }
+  },
+  {
+    "id": 62,
+    "name": "Sharp Gully Embroidery Spring Blade",
+    "category": "CHINESE BLADE",
+    "price": 115,
+    "originalPrice": 299,
+    "rating": 5,
+    "reviews": 96,
+    "tag": "BESTSELLER",
+    "tagColor": "bg-crimson",
+    "image": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780064890274-rgr65t.png",
+    "imageAlt": "Sharp Gully Embroidery Spring Blade",
+    "gallery": [
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780064898599-g1ic8g.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780064900763-nqtj5b.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780064902819-0vjf3e.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780064906477-0zyog8.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780064910721-ly274j.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780064912832-kh4bgq.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780064915994-182hek.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780064918648-g804uv.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780064921240-uof7ga.png",
+        "type": "detail",
+        "alt": ""
+      }
+    ],
+    "slug": "sharp-gully-05535",
+    "inStock": true,
+    "description": "Overall Length: 102cm\nBlade Length: 69.5cm\nHandle Length: 24cm\nBlade Width: 3.8cm\nBlade Thickness: 0.4cm\nWeight: approx. 1300g\nBlade Material: High-performance Manganese Steel\nScabbard: Dyed Solid Wood\nWeight (Without Scabbard): 950g\nHandle Material: Aluminum Alloy\nFittings: Aluminum Alloy",
+    "specs": {
+      "bladeLength": "69.5cm",
+      "overallLength": "102cm",
+      "weight": "1.3kg",
+      "material": "High-performance Manganese Steel",
+      "handle": "Aluminum Alloy"
+    }
+  },
+  {
+    "id": 63,
+    "name": "Fate Keeper Husa Blade",
+    "category": "CHINESE BLADE",
+    "price": 115,
+    "originalPrice": 299,
+    "rating": 5,
+    "reviews": 63,
+    "tag": "BESTSELLER",
+    "tagColor": "bg-crimson",
+    "image": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780065500164-m9uieg.png",
+    "imageAlt": "Fate Keeper Husa Blade",
+    "gallery": [
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780065508002-do4yah.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780065509831-8smbii.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780065512095-sr8wgs.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780065514249-icr4ms.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780065516428-e6mzof.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780065518114-juos02.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780065520096-7fkzjk.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780065521784-mwd4lu.png",
+        "type": "detail",
+        "alt": ""
+      }
+    ],
+    "slug": "fate-keeper--05525",
+    "inStock": true,
+    "description": "Overall Length: 105.5cm\nBlade Length: 70cm\nHandle Length: 28.5cm\nBlade Width: 3.8cm\nBlade Thickness: 0.5cm\nWeight: approx. 1500g\nBlade Material: High-performance Manganese Steel\nScabbard: Solid Wood with Leather Wrapped\nWeight (Without Scabbard): 1100g\nHandle Material: PC-ABS with Cord Wrap\nFittings: Aluminum Alloy\n",
+    "specs": {
+      "bladeLength": "70cm",
+      "overallLength": "105.5cm",
+      "weight": "1.5kg",
+      "material": "High-performance Manganese Steel",
+      "handle": "PC-ABS with Cord Wrap"
+    }
+  },
+  {
+    "id": 64,
+    "name": "Toothed Tiger - Cloud Dragon Tang Dao",
+    "category": "CHINESE BLADE",
+    "price": 120,
+    "originalPrice": 299,
+    "rating": 5,
+    "reviews": 93,
+    "tag": "BESTSELLER",
+    "tagColor": "bg-crimson",
+    "image": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780066416201-9493nx.png",
+    "imageAlt": "Toothed Tiger - Cloud Dragon Tang Dao",
+    "gallery": [
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780066453928-wj8ao5.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780066463563-wiqvkb.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780066472521-0bnr1e.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780066477074-t6hodw.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780066482201-qd1yjs.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780066489528-im3yas.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780066498873-puorfc.png",
+        "type": "detail",
+        "alt": ""
+      }
+    ],
+    "slug": "toothed-tiger-05462",
+    "inStock": true,
+    "description": "Overall Length: 101.5cm\nBlade Length: 71.5cm\nHandle Length: 28cm\nBlade Width: 3.15cm\nBlade Thickness: 0.4cm\nWeight: approx. 1050g\nBlade Material: High-performance Manganese Steel\nScabbard: PC-ABS\nWeight (Without Scabbard): 750g\nHandle Material: Aluminum Alloy\nFittings: Aluminum Alloy",
+    "specs": {
+      "bladeLength": "71.5cm",
+      "overallLength": "101.5cm",
+      "weight": "1.05kg",
+      "material": "High-performance Manganese Steel",
+      "handle": "Aluminum Alloy"
+    }
+  },
+  {
+    "id": 65,
+    "name": "Cloud-Cutting Tang Dao",
+    "category": "CHINESE BLADE",
+    "price": 115,
+    "originalPrice": 299,
+    "rating": 5,
+    "reviews": 92,
+    "tag": "BESTSELLER",
+    "tagColor": "bg-crimson",
+    "image": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780066937035-9ijdv0.png",
+    "imageAlt": "Cloud-Cutting Tang Dao",
+    "gallery": [
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780066945388-6urnwc.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780066947847-u555iz.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780066949933-vvhcyj.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780066952316-q8kk1i.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780066954536-jvscua.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780066957436-nlkfmc.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780066959515-x73749.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780066962669-061x3m.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780066964014-qdmmcp.png",
+        "type": "detail",
+        "alt": ""
+      }
+    ],
+    "slug": "cloud-cutting-05439",
+    "inStock": true,
+    "description": "Overall Length: 105.5cm\nBlade Length: 72cm\nHandle Length: 28cm\nBlade Width: 3.8cm\nBlade Thickness: 0.5cm\nWeight: approx. 1700g\nBlade Material: High-performance Manganese Steel\nScabbard: South American Teak\nWeight (Without Scabbard): 1050g\nHandle Material: South American Teak\nFittings: Aluminum Alloy",
+    "specs": {
+      "bladeLength": "72cm",
+      "overallLength": "105.5cm",
+      "weight": "1.7kg",
+      "material": "High-performance Manganese Steel",
+      "handle": "South American Teak"
+    }
+  },
+  {
+    "id": 66,
+    "name": "Void Erosion Tactical Knife",
+    "category": "CHINESE BLADE",
+    "price": 190,
+    "originalPrice": 499,
+    "rating": 5,
+    "reviews": 53,
+    "tag": "BESTSELLER",
+    "tagColor": "bg-crimson",
+    "image": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780067416344-jojgg0.png",
+    "imageAlt": "Void Erosion Tactical Knife",
+    "gallery": [
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780067423190-qqso4x.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780067424447-7wem4a.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780067426876-1lm4az.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780067428266-d1dudf.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780067429904-g6zr70.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780067431553-0j2lih.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780067435922-ohmmvh.png",
+        "type": "detail",
+        "alt": ""
+      }
+    ],
+    "slug": "void-erosion-05395",
+    "inStock": true,
+    "description": "Overall Length: 96.5cm\nBlade Length: 70.5cm\nHandle Length: 25.5cm\nBlade Width: 3.8cm\nBlade Thickness: 0.5cm\nWeight: approx. 1250g\nBlade Material: High-performance Manganese Steel\nScabbard: K-Sheath\nWeight (Without Scabbard): 950g\nHandle Material: PC-ABS",
+    "specs": {
+      "bladeLength": "70.5cm",
+      "overallLength": "96.5cm",
+      "weight": "1.25kg",
+      "material": "High-performance Manganese Steel",
+      "handle": "PC-ABS"
+    }
+  },
+  {
+    "id": 67,
+    "name": "Karakusa Short Knife",
+    "category": "CRAFT SHORT BLADES",
+    "price": 99,
+    "originalPrice": 199,
+    "rating": 5,
+    "reviews": 93,
+    "tag": "BESTSELLER",
+    "tagColor": "bg-crimson-light",
+    "image": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780068032005-8v704v.jpg",
+    "imageAlt": "Karakusa Short Knife",
+    "gallery": [
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780068195200-mud4bu.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780068198261-nmtfgj.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780068202117-rdb4ld.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780068204436-p0wg94.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780068206736-daqix1.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780068209204-wkw6ei.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780068210568-d3zew9.png",
+        "type": "detail",
+        "alt": ""
+      }
+    ],
+    "slug": "karakusa-05269",
+    "inStock": true,
+    "description": "Overall Length: 52.5cm\nBlade Length: 30.5cm\nHandle Length (with fittings): 16.7cm\nBlade Width: 3.15cm\nBlade Thickness: 0.6cm\nWeight: approx. 650g\nBlade Material: High-performance Manganese Steel\nScabbard: Rosewood\nWeight (Without Scabbard): 450g\nHandle Material: Rosewood\nFittings: Alloy\n",
+    "specs": {
+      "bladeLength": "30.5cm",
+      "overallLength": "52.5cm",
+      "weight": "0.65kg",
+      "material": "High-performance Manganese Steel",
+      "handle": "Rosewood"
+    }
+  },
+  {
+    "id": 68,
+    "name": "Ring Pommel Short Cleaver",
+    "category": "CRAFT SHORT BLADES",
+    "price": 99,
+    "originalPrice": 199,
+    "rating": 5,
+    "reviews": 91,
+    "tag": "BESTSELLER",
+    "tagColor": "bg-crimson-light",
+    "image": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780068875475-vez0su.jpg",
+    "imageAlt": "Ring Pommel Short Cleaver",
+    "gallery": [
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780068892415-q1y6jq.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780068905402-yzhn7f.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780068913104-bax1rj.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780068916520-bfdwbd.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780068918921-9acl6g.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780068922689-03jpru.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780068926002-l1fqeb.jpg",
+        "type": "detail",
+        "alt": ""
+      }
+    ],
+    "slug": "ring-pommel-04449",
+    "inStock": true,
+    "description": "Overall Length: 33.5cm\nBlade Length: 20cm\nHandle Length: 10cm\nBlade Width: 2.6cm\nBlade Thickness: 0.5cm\nWeight: approx. 250g\nBlade Material: 7Cr17MOV Stainless Steel\nHandle Material: Rosewood\n",
+    "specs": {
+      "bladeLength": "20cm",
+      "overallLength": "33.5cm",
+      "weight": "0.25kg",
+      "material": "7Cr17MOV Stainless Steel",
+      "handle": "Rosewood"
+    }
+  },
+  {
+    "id": 69,
+    "name": "Shadow Strike · Tang Feng",
+    "category": "CRAFT SHORT BLADES",
+    "price": 99,
+    "originalPrice": 199,
+    "rating": 5,
+    "reviews": 61,
+    "tag": "BESTSELLER",
+    "tagColor": "bg-crimson-light",
+    "image": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780069835958-2pnz2z.png",
+    "imageAlt": "Shadow Strike · Tang Feng",
+    "gallery": [
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780069842124-b3wbqr.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780069845267-cborfg.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780069848826-voxxe4.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780069851583-b934yy.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780069854678-e42n8y.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780069856885-maujtv.png",
+        "type": "detail",
+        "alt": ""
+      }
+    ],
+    "slug": "shadow-strike-05427",
+    "inStock": true,
+    "description": "Overall Length: 47.5cm\nBlade Length: 28.5cm\nHandle Grip Length: 15.3cm\nMax Blade Width: 3.25cm\nBlade Thickness: 0.3cm\nWeight: approx. 300g\nBlade Material: High Chromium Steel\nHandle Material: PC-ABS",
+    "specs": {
+      "bladeLength": "28.5cm",
+      "overallLength": "47.5cm",
+      "weight": "0.3kg",
+      "material": "High Chromium Steel",
+      "handle": "PC-ABS"
+    }
+  },
+  {
+    "id": 70,
+    "name": "Small Qing Dao",
+    "category": "CRAFT SHORT BLADES",
+    "price": 99,
+    "originalPrice": 199,
+    "rating": 5,
+    "reviews": 17,
+    "tag": "BESTSELLER",
+    "tagColor": "bg-crimson-light",
+    "image": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780070175665-8g0nl9.png",
+    "imageAlt": "Small Qing Dao",
+    "gallery": [
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780070186472-4tluva.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780070197624-s95zsl.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780070206120-0bd2xj.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780070214385-a1m9s3.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780070226163-fka5jt.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780070234991-r1kr82.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780070242735-cbvg0m.png",
+        "type": "detail",
+        "alt": ""
+      }
+    ],
+    "slug": "small-02931",
+    "inStock": true,
+    "description": "Overall Length: 54cm\nBlade Length: 30.5cm\nHandle Length: 18cm\nBlade Width: 3.7cm\nBlade Thickness: 0.6cm\nBlade Material: High Carbon Steel\nScabbard Material: Rosewood\nFittings: Alloy & Copper\nWeight: approx. 850g",
+    "specs": {
+      "bladeLength": "30.5cm",
+      "overallLength": "54cm",
+      "weight": "0.85kg",
+      "material": "High Carbon Steel",
+      "handle": "Solid Wood"
+    }
+  },
+  {
+    "id": 71,
+    "name": "Four Beasts Inlaid Straight Blade",
+    "category": "CRAFT SHORT BLADES",
+    "price": 99,
+    "originalPrice": 199,
+    "rating": 5,
+    "reviews": 94,
+    "tag": "BESTSELLER",
+    "tagColor": "bg-crimson-light",
+    "image": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780070632053-336lmm.png",
+    "imageAlt": "Four Beasts Inlaid Straight Blade",
+    "gallery": [
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780070645611-unva59.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780070647862-5bfiao.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780070650083-z7sxci.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780070651323-0okwaj.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780070653644-8j4ivg.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780070655902-295mkc.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780070658309-ejb2tg.png",
+        "type": "detail",
+        "alt": ""
+      }
+    ],
+    "slug": "four-beasts-05585",
+    "inStock": true,
+    "description": "Overall Length: 64.5cm\nBlade Length: 29.5cm\nCutting Edge Length: 28.5cm\nHandle Length: 32cm\nBlade Width: 2.8cm\nBlade Thickness: 0.4cm\nTotal Weight: approx. 1000g\nSingle Piece Weight: 500g\nBlade Material: High-performance Manganese Steel\nScabbard & Handle Material: Painted Iron\nFittings: Aluminum Alloy\n\t\n",
+    "specs": {
+      "bladeLength": "29.5/28.5cm",
+      "overallLength": "64.5cm",
+      "weight": "1kg",
+      "material": "High-performance Manganese Steel",
+      "handle": "Alloy"
+    }
+  },
+  {
+    "id": 72,
+    "name": "Silver Falcon Dagger",
+    "category": "CRAFT SHORT BLADES",
+    "price": 89,
+    "originalPrice": 199,
+    "rating": 5,
+    "reviews": 61,
+    "tag": "BESTSELLER",
+    "tagColor": "bg-crimson-light",
+    "image": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780146543208-rxsk1w.jpg",
+    "imageAlt": "Silver Falcon Dagger",
+    "gallery": [
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780146550221-h5c9vs.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780146551897-0nzuew.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780146552892-wr0v4w.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780146553663-r4ficl.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780146554601-6461o0.jpg",
+        "type": "detail",
+        "alt": ""
+      }
+    ],
+    "slug": "silver-falcon-05829",
+    "inStock": true,
+    "description": "Overall Length: 335mm\nBlade Length: 160mm\nHandle Length: 140mm\nBlade Width: 28mm\nThickness: 5mm\nWeight: Approx. 250g\nBlade Material: High-performance Manganese Steel",
+    "specs": {
+      "bladeLength": "16cm",
+      "overallLength": "33.5cm",
+      "weight": "0.25kg",
+      "material": "High-performance Manganese Steel",
+      "handle": "High-performance Manganese Steel"
+    }
+  },
+  {
+    "id": 73,
+    "name": "Yaodian Short Sword",
+    "category": "CRAFT SHORT BLADES",
+    "price": 115,
+    "originalPrice": 299,
+    "rating": 5,
+    "reviews": 57,
+    "tag": "BESTSELLER",
+    "tagColor": "bg-crimson-light",
+    "image": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780146793869-dru80k.jpg",
+    "imageAlt": "Yaodian Short Sword",
+    "gallery": [
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780146812708-ddzpqb.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780146813733-u4ij8x.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780146814625-cq60vz.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780146816785-no6ryy.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780146817563-wuz1p9.jpg",
+        "type": "detail",
+        "alt": ""
+      }
+    ],
+    "slug": "yaodian-60026",
+    "inStock": true,
+    "description": "Overall Length: 41.5cm\nBlade Length: 25cm\nHandle Length: 15.8cm\nMax Blade Width: 3.8cm\nThickness: 0.5cm\nWeight: Approx. 450g\nBlade Material: 5Cr15MoV Stainless Steel\nHandle Material: Rosewood\nFittings: 5-Chromium Steel & Brass",
+    "specs": {
+      "bladeLength": "25cm",
+      "overallLength": "41.5cm",
+      "weight": "0.45kg",
+      "material": "5Cr15MoV Stainless Steel",
+      "handle": "Rosewood"
+    }
+  },
+  {
+    "id": 74,
+    "name": "Guyi Short Sword",
+    "category": "CRAFT SHORT BLADES",
+    "price": 99,
+    "originalPrice": 199,
+    "rating": 5,
+    "reviews": 67,
+    "tag": "BESTSELLER",
+    "tagColor": "bg-crimson-light",
+    "image": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780147363474-4ulw4r.jpg",
+    "imageAlt": "Guyi Short Sword",
+    "gallery": [
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780147372155-eiraig.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780147373061-05ikbc.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780147373827-5rk1vm.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780147374621-u542ip.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780147375390-ew3hoa.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780147376153-r3b06l.jpg",
+        "type": "detail",
+        "alt": ""
+      }
+    ],
+    "slug": "guyi-66131",
+    "inStock": true,
+    "description": "Overall Length: 34cm\nBlade Length: 18.7cm\nGrip Length: 14cm\nMax Blade Width: 9cm\nThickness: 0.5cm\nWeight: Approx. 750g\nBlade Material: 7Cr17MoV Steel\nHandle Material: 7Cr17MoV Steel, Rosewood, Copper Rivets & Night Pearl",
+    "specs": {
+      "bladeLength": "18.7cm",
+      "overallLength": "34cm",
+      "weight": "0.75kg",
+      "material": "7Cr17MoV Steel",
+      "handle": "7Cr17MoV Steel, Rosewood, Copper Rivets & Night Pearl"
+    }
+  },
+  {
+    "id": 75,
+    "name": "Barbarian Short Sword",
+    "category": "CRAFT SHORT BLADES",
+    "price": 115,
+    "originalPrice": 299,
+    "rating": 5,
+    "reviews": 93,
+    "tag": "BESTSELLER",
+    "tagColor": "bg-crimson-light",
+    "image": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780147724789-stkrxd.jpg",
+    "imageAlt": "Barbarian Short Sword",
+    "gallery": [
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780147768772-7zas0k.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780147770031-20risf.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780147770811-59toj7.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780147771740-vsws4s.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780147772643-iouvqc.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780147773433-vsdtfd.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780147774571-duptqk.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780147775449-sg2bed.jpg",
+        "type": "detail",
+        "alt": ""
+      }
+    ],
+    "slug": "barbarian-60001",
+    "inStock": true,
+    "description": "Overall Length: 61cm\nBlade Length: 41cm\nHandle Length: 16.5cm\nBlade Width: 4.4cm\nThickness: 0.6cm\nBlade Material: High Manganese Steel\nSheath Material: Rosewood\nFittings: Copper\nWeight: Approx. 950g",
+    "specs": {
+      "bladeLength": "41cm",
+      "overallLength": "61cm",
+      "weight": "0.95kg",
+      "material": "High Manganese Steel",
+      "handle": "Solid Wood"
+    }
+  },
+  {
+    "id": 76,
+    "name": "Chi-Back Imperial Guard Dagger",
+    "category": "CRAFT SHORT BLADES",
+    "price": 105,
+    "originalPrice": 199,
+    "rating": 5,
+    "reviews": 34,
+    "tag": "BESTSELLER",
+    "tagColor": "bg-crimson-light",
+    "image": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780148127922-4z1amd.jpg",
+    "imageAlt": "Chi-Back Imperial Guard Dagger",
+    "gallery": [
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780148146107-5oi5z4.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780148153771-zc83lc.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780148167467-fuuyx3.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780148208424-dsfcmh.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780148216309-ui3x49.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780148218434-tf5jh1.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780148227188-o6y2ti.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780148237953-pnvzl0.jpg",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780148250316-dh5w00.jpg",
+        "type": "detail",
+        "alt": ""
+      }
+    ],
+    "slug": "chi-back-05114",
+    "inStock": true,
+    "description": "Overall Length: 87cm\nBlade Length: 49cm\nHandle Length: 27cm\nBlade Width: 4cm\nThickness: 0.6cm\nWeight: Approx. 1250g\nBlade Material: High-performance Manganese Steel\nSheath Material: Leather Sheath\nWeight Without Sheath: 1100g\nHandle Material: PC-ABS\nFittings: PC-ABS",
+    "specs": {
+      "bladeLength": "49cm",
+      "overallLength": "87cm",
+      "weight": "1.25kg",
+      "material": "High-performance Manganese Steel",
+      "handle": "PC-ABS"
+    }
+  },
+  {
+    "id": 77,
+    "name": "Sakuragi Hanamichi Katana",
+    "category": "KATANA",
+    "price": 120,
+    "originalPrice": 299,
+    "rating": 5,
+    "reviews": 39,
+    "tag": "BESTSELLER",
+    "tagColor": "bg-crimson-light",
+    "image": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780149368173-9rq7ue.jpg",
+    "imageAlt": "Sakuragi Hanamichi Katana",
+    "gallery": [
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780149385244-8098iq.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780149387718-fkikts.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780149389802-ct6lap.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780149392075-nskexf.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780149394280-vm1vug.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780149396446-t5gf3m.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780149398928-c58l1j.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780149404894-0bpy8g.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780149407072-4gymsq.png",
+        "type": "detail",
+        "alt": ""
+      },
+      {
+        "url": "https://pub-6e105bae4ec2412aa6f2943c5b2746dc.r2.dev/products/1780149409395-9q6o70.png",
+        "type": "detail",
+        "alt": ""
+      }
+    ],
+    "slug": "sakuragi-03019",
+    "inStock": true,
+    "description": "Overall Length: 106.5cm\nBlade Length: 75cm\nHandle Length: 26cm\nBlade Width: 3.2cm\nBlade Thickness: 0.6cm\nSheath Material: PC-ABS with Leather Wrapping\nHandle Material: Solid Wood + Anti-slip Cord\nBlade Material: 7Cr17MoV Stainless Steel\nWeight: Approx. 1250g (850g without sheath)\n",
+    "specs": {
+      "bladeLength": "75cm",
+      "overallLength": "106.5cm",
+      "weight": "1.25kg",
+      "material": "7Cr17MoV Stainless Steel",
+      "handle": "Solid Wood + Anti-slip Cord"
+    }
   }
 ]
